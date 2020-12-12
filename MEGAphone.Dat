@@ -1,0 +1,86 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~99|Field=Description~String~Description~206|Field=Designator~String~Designator~82|Field=Footprint~String~Footprint~166|Field=LibRef~String~LibRef~61|Field=Quantity~Integer~Quantity~61|Field=Digikey Number~String~Digikey Number~61|Field=Value~String~Value~59|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~MEGAphone.PrjPcb|ReportField=ProjectFullPath~U:\Altium Projects\MEGAphone\MEGAphone.PrjPcb|ReportField=Title~Bill of Materials For Project [MEGAphone.PrjPcb] (PCB Document : MEGAphone.PcbDoc)|ReportField=TotalQuantity~293|ReportField=ReportTime~11:46:21 AM|ReportField=ReportDate~2/08/2019|ReportField=ReportDateTime~2/08/2019 11:46:21 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~College of Science & Engineering|ReportField=Address2~Engineering Services Room 3.22|ReportField=Address3~1284 South Rd|ReportField=Address4~SA 5042|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2/08/2019|ReportField=CurrentTime~11:42:07 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~U:\Altium Projects\MEGAphone\MEGAphone Overview.SchDoc|ReportField=DocumentName~MEGAphone Overview.SchDoc|ReportField=DocumentNumber~A4284|ReportField=DrawnBy~D Kleiss|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~23/07/2019|ReportField=Organization~Flinders University|ReportField=ProjectName~MEGAphone.PrjPcb|ReportField=Revision~1|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~1|ReportField=Time~|ReportField=Title~Mega Phone|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=2.56:XCorrection=1.00:YCorrection=1.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A4 (210 x 297mm):PaperIndex=9|ReportField=DataSourceFileName~MEGAphone.PrjPcb|ReportField=DataSourceFullPath~U:\Altium Projects\MEGAphone\MEGAphone.PrjPcb|ReportField=PCBDataSourceFileName~MEGAphone.PcbDoc|ReportField=PCBDataSourceFullPath~U:\Altium Projects\MEGAphone\MEGAphone.PcbDoc
+1|Battery|Multicell Battery|BT1|CONNECTOR PHOENIX 1757242|Battery|1||
+2|MOUDLE-BLUETOOTH-AUDIO-RN52-I/RM(50P-26X13.5MM)|Bluetooth 3.0 class 2 surface mount audio module with PCB trace antenna|BT2|LGA50-1.0-26X13.5MM|MOUDLE-BLUETOOTH-AUDIO-RN52-I/RM(50P-26X13.5MM)|1||
+3|470uF|Polarized Capacitor (Radial)|C1_M1, C1_M2|CAP Case D Tantalum|Cap Pol|2|478-11421-1-ND|470uF
+4|100nF|Capacitor|C2_M1, C2_M2, C9_M1, C9_M2, C10_M1, C10_M2, C12, C13, C14, C19, C22_FA, C22_FB, C26, C27, C28, C29, C38, C40_PS1, C40_PS2, C40_PS3, C40_PS4, C40_PS5, C40_PS6, C46, C48|0603_CAP UF HD|Cap|25||100nF
+5|33pF|Capacitor|C3_M1, C3_M2, C4_M1, C4_M2, C5_M1, C5_M2, C6_M1, C6_M2|0603_CAP PF HD|Cap|8||33pF
+6|1uF|Capacitor|C7_M1, C7_M2, C8_M1, C8_M2, C11_M1, C11_M2, C16, C18, C35, C36|0603_CAP UF HD|Cap|10|1276-6524-1-ND|1uF
+7|4.7uF|Capacitor|C15|0603_CAP UF HD|Cap|1||4.7uF
+8|10uF|Capacitor|C17, C37|0603_CAP UF HD|Cap|2|490-7200-1-ND|10uF
+9|1nF COG/NPO|Capacitor|C20_FA, C20_FB, C21_FA, C21_FB|0603_CAP PF HD|Cap|4|732-7771-1-ND|1nF COG/NPO
+10|100uF|Capacitor|C23_FA, C23_FB|1210-CAPACITOR UF|Cap|2|587-1965-1-ND|100uF
+11|150pF COG/NPO|Capacitor|C24_FA, C24_FB|0603_CAP PF HD|Cap|2||150pF COG/NPO
+12|820pF COG/NPO|Capacitor|C25_FA, C25_FB|0603_CAP PF HD|Cap|2|732-7771-1-ND|820pF COG/NPO
+13|33nF COG|Capacitor|C30, C31, C32, C33|0805 Reflow Cap|Cap|4|445-8162-1-ND|33nF COG
+14|22uF|Capacitor|C39_PS1, C39_PS2, C39_PS3, C39_PS4, C39_PS5, C39_PS6, C41_PS1, C41_PS2, C41_PS3, C41_PS4, C41_PS5, C41_PS6, C42_PS1, C42_PS2, C42_PS3, C42_PS4, C42_PS5, C42_PS6, C47, C49, C50|0603_CAP UF HD|Cap|21|490-7611-1-ND|22uF
+15|100nF|0805 (2012 Metric)|C43|CAPC0805(2012)100_N|CMP-1036-01531-1|1||39pF
+16|10uF|0805 (2012 Metric)|C44|CAPC0805(2012)100_N|CMP-1036-01531-1|1||39pF
+17|47mF|Polarized Capacitor (Radial)|C45|CAP SMD 10.5D 5.5H|Cap Pol|1|399-10938-1-ND|47mF
+18|Connector 2-way||CON1, CON2|HDR1X2|CON2|2||
+19|Smart Card Connector||CON3|Smart Card Connector|Smart Card Connector|1|609-4481-ND|
+20|BAV170|Dual Common Cathode Silicon Low Leakage Diode 3-Pin SOT-23|D1_M1, D1_M2, D7|SOT-23|BAV170|3|BAV170E6327HTSA1CT-ND|
+21|#NAME?|LED|D2, D3, D6_PS1, D6_PS2, D6_PS3, D6_PS4, D6_PS5, D6_PS6, D8|LED 3mm Red|LED|9||
+22|MBR0540|Diode|D4|ONSC-SOD-123-2-425-04_V|DIODE_SCHOTTKY|1|MBR0540CT-ND|
+23|MM3Z24VT1G|Zener Diode|D5|ONSC-SOD-323-2-477-02_V|ZENER DIODE|1|MM3Z24VT1GOSCT-ND|
+24|WIFI Module|Header, 4-Pin, Dual row|ESP1|HDR2X4|Header 4X2|1||
+25|10A|Fuse|F1|FUSE OMF125|Fuse|1|486-2999-ND|10A
+26|PTC|Fuse|F2_FA, F2_FB|0603-RESISTOR HD|Fuse|2|490-2471-1-ND|
+27|uSIM Card|Molex 104642 Series 8 Way Micro SIM, MicroSD Memory Card Connector with Solder Termination|J1_M1, J1_M2|CONNECTOR MSIM MOLEX 1046421610|104642-1610|2|WM12958CT-ND|
+28|SJ-43515TS-SMT|SJ Series 3.5 mm 16 V 4 Conductor SMT Mid Mount Stereo Audio Jack|J2|SOCKET 3.5 TRRS CUI_SJ-43515TS-SMT|SJ-43515TS-SMT|1|CP-43515TSSJCT-ND|
+29|D Connector 9|Receptacle Assembly, 9 Position, Right Angle|J3|DB9 Right Angle Through-Hole Male|D Connector 9|1|190-09FA-ND|
+30|Connector 15|Receptacle Assembly, 15-Pin, Sim Line Connector|J5|VGA Right Angle Through-Hole Female|Connector 15|1|AE11024-ND|
+31|Inductor|Inductor|L1|TDK-SLF-6025-2_V|Inductor|1|445-174416-1-ND|10uH
+32|Inductor|Inductor|L2_PS1, L2_PS2, L2_PS3, L2_PS4, L2_PS5, L2_PS6, L3|252012|Inductor, Inductor, Inductor, Inductor, Inductor, Inductor, Inductor_1|7|490-13053-1-ND|1uH
+33|Speaker||LS1, LS2|HDR1X2|CON2|2||
+34|EXT_PWR|2.1mm DC JACK|P1|DCPOWER - P0620|DCPOWER|1||
+35|Touch Screen|Header, 3-Pin, Dual row|P2|CONNECTOR FPC MOLEX 51281-0694|Header 3X2|1|HFJ106CT-ND|
+36|U.FL-R-SMT-1(10)|Ultra Small Surface Mount Coaxial Connector, -40 to 90 degC, 2-Pin SMT, RoHS, Tape and Reel|P3, P4, P5, P6|HRS-U.FL-R-SMT-1(10)_V|CMP-2000-05152-1|4||
+37|Digitiser Jumper|Header, 3-Pin, Dual row|P7, P8|CONNECTOR FPC MOLEX 51281-0694|Header 3X2|2|HFJ106CT-ND|
+38|MUN5133T1G|PNP Bipolar Transistor, Prebiased|Q1_M1, Q1_M2, Q7, Q8, Q9, Q14|SC70-3 (SOT-323)|Transistor PNP Prebiased|6|MUN5133T1GOSCT-ND|
+39|MUN5233T1G|NPN Bipolar Transistor, Prebiased|Q2_M1, Q2_M2, Q10, Q15, Q16, Q17|SC70-3 (SOT-323)|Transistor NPN Prebiased|6|MUN5233T1GOSCT-ND|
+40|N-MOSFET_S08|N-Mosfet SOIC-8|Q3, Q4|SOIC-8-H_SLDR|N-MOSFET_S08|2||
+41|BSS138LT3G|Power MOSFET, 200 mA, 50 V, N-Channel, 3-Pin SOT-23, Pb-Free, Tape and Reel|Q5, Q6, Q18, Q19|SOT-23|BSS138LT3G|4|BSS138LT3GOSCT-ND|
+42|15k|Resistor|R1_M1, R1_M2|0603-RESISTOR HD|Resistor|2||15k
+43|22R|Resistor|R2_M1, R2_M2, R3_M1, R3_M2, R4_M1, R4_M2|0603-RESISTOR HD|Resistor|6||22R
+44|10k|Resistor|R5_M1, R5_M2, R8, R9, R13_FA, R13_FB, R20, R21, R22, R23, R24, R25, R28, R29, R35, R36, R37, R39, R40, R69, R71, R72, R73, R74, R75, R76, R79, R80|0603-RESISTOR HD|Resistor|28||10k
+45|100k|Resistor|R6_M1, R6_M2, R26, R27, R42, R43|0603-RESISTOR HD|Resistor|6||100k
+46|220R|Resistor|R7, R10, R30, R31, R32, R33, R34, R41_PS1, R41_PS2, R41_PS3, R41_PS4, R41_PS5, R41_PS6, R66|0603-RESISTOR HD|Resistor|14||220R
+47|0R|Resistor|R11_FA, R11_FB, R62, R63|0603-RESISTOR HD|Resistor|4||0R
+48|1k3|Resistor|R12_FA, R12_FB|0603-RESISTOR HD|Resistor|2||1k3
+49|2k|Resistor|R14_FA, R14_FB, R18_FA, R18_FB, R51, R55, R59|0603-RESISTOR HD|Resistor|7||2k
+50|10k7|Resistor|R15_FA, R15_FB|0603-RESISTOR HD|Resistor|2||10k7
+51|26k1|Resistor|R16_FA, R16_FB, R17_FA, R17_FB|0603-RESISTOR HD|Resistor|4||26k1
+52|10k DNL|Resistor|R19_FA, R19_FB|0603-RESISTOR HD|Resistor|2||10k DNL
+53|12R|Resistor|R38|0805 Reflow|Resistor|1||12R
+54|10k|Resistor|R46, R47, R48|POT 10P2VF-D-141Y|Resistor Potentiometer Dual|3||10k
+55|1k|Resistor|R49, R52, R56, R60|0603-RESISTOR HD|Resistor|4||1k
+56|4k|Resistor|R50, R54, R58|0603-RESISTOR HD|Resistor|3||4k
+57|510R|Resistor|R53, R57, R61|0603-RESISTOR HD|Resistor|3||510R
+58|1M24|Resistor|R64|0603-RESISTOR HD|Resistor|1||1M24
+59|137k|Resistor|R65|0603-RESISTOR HD|Resistor|1||137k
+60|20k|Resistor|R67, R68, R70|0603-RESISTOR HD|Resistor|3||20k
+61|DPAD|DIP Switch, 4 Position, SPST|S1|DPAD Gameboy|SW DIP-4|1||
+62|Button|DIP Switch, 2 Position, SPST|S2, S3|Buttons Gameboy v2|SW DIP-2|2||
+63|Black Button (Pair)|DIP Switch, 2 Position, SPST|S4|Buttons Gameboy Black|SW DIP-2|1||
+64|SW-SPDT|SPDT Subminiature Toggle Switch, Right Angle Mounting, Vertical Actuation|S6, S7, S8, S9, S10, S11|Switch SPDT OS102011MA1Q|SW-SPDT|6|CKN9559-ND|
+65|4G_Modem||U1_M1, U1_M2|CONNECTOR MINI PCIE MOLEX_67910001|4G_Modem|2|670-2275-1-ND|
+66|MIC5504|300 mA Single Output LDO in Small Packages|U2_M1, U2_M2|SOT-23-5|MIC5504|2|576-4879-1-ND|
+67|TXB0106PWR|6-Bit Bidirectional Level-Shifting and Voltage Translator with Auto-Direction Sensing and +/- 15-kV ESD Protection, 1.2 to 3.6 V, -40 to 85 degC, 16-Pin TSSOP (PW), Green (RoHS & no Sb/Br), Tape and Reel|U3_M1, U3_M2|TSSOP-16|TXB0106PWR|2|296-23759-1-ND|
+68|AMC1203PSA|Single Channel Single ADC Delta-Sigma 40ksps 16-bit Serial 8-Pin SOP Tube|U4|AMC1203|AMC1203PSA|1|296-27654-5-ND|
+69|SSM2518||U5|CP-20-8_M|SSM2518|1|SSM2518CPZ-R7CT-ND|
+70|LM74610-Q1|Zero IQ Reverse Polarity Protection Smart Diode Controller|U6, U7|TI-DGK8_V|LM74610-Q1|2|296-43067-6-ND, [NoValue]|
+71|TE0725|FPGA Module Xilinx Artix-7 100T, optical transceiver|U8|Trenz TE-0725|TRENZ TE0725|1|A32951-ND|
+72|S70FL01GS||U9|S70FL01GS|NOR Flash|1|S70FL01GSDPMFI010-ND|
+73|AD8592ARMZ-REEL|Double Channel Wide Bandwidth Operational Amplifier, 2.2 MHz BW, 3.5 V/us SR, Industrial, 10-pin SOP (RM-10), Reel|U10_FA, U10_FB|ADI-RM-10_M|AD8592ARMZ-REEL|2|AD8592ARMZ-REELCT-ND|
+74|PCA9535||U11, U12, U13|PW0024A_M|TCA9539|3|568-9913-1-ND|
+75|SN74LVC245APWT|Octal Bus Transceiver With 3-State Outputs 20-TSSOP -40 to 125|U14|DGV20_M|SN74LVC245APWT|1|296-49918-1-ND|
+76|RN2483 LoRa Module||U15, U16|MICROCHIP_RN2483-I/RM095|RN2483 LoRa Module|2||
+77|SPW0690LM4H||U17, U18, U19, U20|MICROPHONE MEMS SPW0690LM4H-1|MEMs Microphone|4|423-1423-1-ND|
+78|FAN5333BSX|FAN5333B Series 5.5 V 1.5 MHz High Efficiency High Current Serial LED Driver|U21|SOT-23-5|FAN5333BSX|1|FAN5333BSXCT-ND|
+79|TPS63021|High Efficiency Single Inductor Buck-Boost Converter, 4 A, 1.8 to 5.5 V Input, 1.2 to 5.5 V Output, -40 to 85 degC, 14-Pin VSON (DSJ), Green (RoHS & no Sb/Br), Tape and Reel|U22_PS1, U22_PS2, U22_PS3, U22_PS4, U22_PS5, U22_PS6|DSJ14-4000X1580TP_V|TPS63020DSJ14|6||
+80|LIS3DH|Accelerometer|U23|LGA-16_3x3x1mm|LIS3DH|1||
+81|PCF8563T/F4,112|PCF8563 Series 1.8 - 5.5 V 250 mA Real-time Clock/Calendar - SOIC-8|U24|SOIC-8-H_SLDR|PCF8563T/F4,112|1||
+82|LCD Connector||U25|Connector FPC 40 pin TE 4-1734839-0|LCD Connector|1|HFK140CT-ND|
+83|TPS63020DSJT|High Efficiency Single Inductor Buck-Boost Converter, 4 A, 1.8 to 5.5 V Input, 1.2 to 5.5 V Output, -40 to 85 degC, 14-Pin VSON (DSJ), Green (RoHS & no Sb/Br), Tape and Reel|U26|DSJ14-4000X1580TP_V|TPS63020DSJ14|1||
+84|SN74HC74||U27|SOIC-14|SN74HC74|1|296-1204-1-ND|
+85|32.7680KHZ|Crystal|Y1|FC-135|CRYSTAL|1|SER4073CT-ND|32.7680KHZ
