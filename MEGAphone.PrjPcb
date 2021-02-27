@@ -310,23 +310,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WQOFQKMR
 
 [Document17]
-DocumentPath=SD & SMART CARD.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=13
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MQMLRCHF
-
-[Document18]
 DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPUHKRHA
 
-[Document19]
+[Document18]
 DocumentPath=VGA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGNRVADS
 
-[Document20]
+[Document19]
 DocumentPath=PowerSupply5V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMIUVWVJ
 
-[Document21]
+[Document20]
 DocumentPath=..\..\..\..\..\Downloads\TE0765.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OORMYCBC
 
-[Document22]
+[Document21]
 DocumentPath=QWAVE_Raspberry-Pi-CM4-Altium-Library\CM4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ROPDXZRL
 
-[Document23]
+[Document22]
 DocumentPath=MEGAphone.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFTPOMSP
 
-[Document24]
+[Document23]
 DocumentPath=QWAVE_Raspberry-Pi-CM4-Altium-Library\CM4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJEMJNEL
 
-[Document25]
+[Document24]
 DocumentPath=MEGAphone.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVPFLWCY
 
-[Document26]
+[Document25]
 DocumentPath=RFD900X.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
