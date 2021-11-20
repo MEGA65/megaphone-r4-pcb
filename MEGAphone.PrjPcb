@@ -208,6 +208,23 @@ GenerateClassCluster=0
 DocumentUniqueId=XQXIDACT
 
 [Document11]
+DocumentPath=Lipo_Solar_Charger.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=18
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ITKIQETW
+
+[Document12]
 DocumentPath=MEGAphone Overview.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDFAPEIC
 
-[Document12]
+[Document13]
+DocumentPath=FPGA_Multiplexer.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=17
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LKQZHRYE
+
+[Document14]
 DocumentPath=CM4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WXSPZDCK
 
-[Document13]
+[Document15]
 DocumentPath=MEGAphone.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LPGQNPEC
 
-[Document14]
+[Document16]
 DocumentPath=MEMS MICs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBLWRART
 
-[Document15]
+[Document17]
 DocumentPath=Power Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOEVEHYJ
 
-[Document16]
+[Document18]
 DocumentPath=PowerSupply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WQOFQKMR
 
-[Document17]
+[Document19]
 DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPUHKRHA
 
-[Document18]
+[Document20]
 DocumentPath=VGA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGNRVADS
 
-[Document19]
+[Document21]
 DocumentPath=PowerSupply5V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMIUVWVJ
 
-[Document20]
+[Document22]
 DocumentPath=..\..\..\..\..\Downloads\TE0765.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OORMYCBC
 
-[Document21]
+[Document23]
 DocumentPath=QWAVE_Raspberry-Pi-CM4-Altium-Library\CM4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ROPDXZRL
 
-[Document22]
+[Document24]
 DocumentPath=MEGAphone.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFTPOMSP
 
-[Document23]
+[Document25]
 DocumentPath=QWAVE_Raspberry-Pi-CM4-Altium-Library\CM4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJEMJNEL
 
-[Document24]
+[Document26]
 DocumentPath=MEGAphone.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVPFLWCY
 
-[Document25]
+[Document27]
 DocumentPath=RFD900X.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAOBQBDV
 
-[Document26]
+[Document28]
 DocumentPath=MEGAphone.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
