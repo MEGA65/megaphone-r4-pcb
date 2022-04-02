@@ -1,0 +1,495 @@
+Protel Design System Design Rule Check
+PCB File : \\Mac\Home\Desktop\GIT\megaphone-pcb-2020\MEGAphone.PcbDoc
+Date     : 2.4.2022.
+Time     : 12:00:56
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Track (-21.961mm,78.392mm)(-20.637mm,78.392mm) on Bottom Layer And Pad U19-0(-21.299mm,78.392mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Track (92.1mm,83.4mm)(92.1mm,84.9mm) on Bottom Layer And Via (92.1mm,85.142mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54mm,60.3mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.061mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (39.5mm,4.9mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-104.6mm,3.6mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Track (102mm,61.6mm)(102mm,61.6mm) on Component Side And Via (102.1mm,61.6mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Track (93.5mm,83.4mm)(93.5mm,84.6mm) on Bottom Layer And Via (93.5mm,84.6mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.061mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (84.124mm,6.876mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.061mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (84.124mm,6.876mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (8.25mm,1.4mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (8.25mm,1.4mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.077mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-13.1mm,12mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-13.1mm,12mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.008mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-13.6mm,4.365mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-11.3mm,3.8mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-11.3mm,3.8mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.068mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-11.5mm,1.8mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.068mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-11.5mm,1.8mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.106mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-100.553mm,7.347mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.12mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-100.553mm,7.347mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.124mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (93mm,82.469mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.008mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (87.491mm,47.9mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.008mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (87.491mm,47.9mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.123mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.5mm,57.6mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.123mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (58.5mm,57.6mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.115mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (47.7mm,3.9mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.115mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (47.7mm,3.9mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-1mm,5.4mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (0.006mm,5.4mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.107mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (0.5mm,9.4mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.107mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (1.3mm,9.4mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.092mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (1.3mm,9.4mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.042mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-0.5mm,9.5mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.105mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-6.7mm,9.4mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.108mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-7.4mm,11.2mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-11.15mm,8.6mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.123mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (4.461mm,4.552mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (4.461mm,4.552mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (5mm,5.4mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (12.6mm,11.2mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-98.1mm,29.3mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-98.1mm,29.3mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.022mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-20.869mm,34.844mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.088mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-20.869mm,34.844mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-27.305mm,34.844mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-79.395mm,34.686mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-79.395mm,34.686mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-24.7mm,59.7mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-24.7mm,59.7mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.083mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-22.907mm,59.7mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-22.907mm,59.7mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-21.84mm,59.8mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-21.84mm,59.8mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-76.974mm,2.125mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-81.661mm,66.36mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-81.661mm,66.36mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-78.6mm,82mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.12mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-77.072mm,83.175mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-77.072mm,83.175mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (0.739mm,77.9mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (0.739mm,77.9mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.094mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.754mm,65.5mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.007mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.785mm,66.665mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.119mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.8mm,67.9mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.118mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (59.221mm,69.657mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.071mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (59.221mm,69.657mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.754mm,69.1mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.8mm,71.1mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.032mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.754mm,73.1mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.117mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.754mm,75.1mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.111mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.754mm,77.1mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.104mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (66.482mm,78.31mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.089mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (66.482mm,78.31mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.071mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (64.544mm,78.288mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.068mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (64.544mm,78.288mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.036mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.754mm,78.3mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.8mm,79.5mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.366mm,65.1mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.029mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.366mm,66.7mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.366mm,67.9mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.046mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.366mm,69.5mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.083mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (53.617mm,71.655mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.083mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (53.617mm,71.655mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.049mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.258mm,71.311mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.089mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.366mm,73.5mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.366mm,75.5mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.066mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.366mm,77.1mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.028mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.3mm,78.3mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (53.359mm,79.897mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (53.359mm,79.897mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.3mm,79.5mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,60.3mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.049mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,61.5mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.047mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.9mm,62.7mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.055mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,63.9mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,65.1mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.865mm,66.265mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.1mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,67.5mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.08mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (23mm,69mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (23mm,69mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (22.2mm,69.6mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (22.2mm,69.6mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,68.7mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,72.3mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.126mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.873mm,73.546mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.052mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,74.7mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,75.9mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,77.1mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.855mm,78.323mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.446mm,78.3mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,77.1mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,75.935mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,74.7mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.102mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,73.535mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,72.3mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.3mm,71.1mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,69.9mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.103mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,67.535mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.39mm,68.77mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.116mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.446mm,66.3mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.102mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (18.8mm,64.7mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.101mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (18.8mm,64.7mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.103mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (19.9mm,65.1mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.115mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (19.175mm,61.091mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.115mm < 0.127mm) Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (19.175mm,61.091mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,61.5mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (0.057mm < 0.127mm) Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,60.3mm) from Component Side to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Track (100.5mm,60mm)(102.1mm,61.6mm) on Component Side And Track (102mm,61.6mm)(102mm,61.6mm) on Component Side 
+   Violation between Clearance Constraint: (0.125mm < 0.127mm) Between Region (0 hole(s)) Bottom Layer And Track (66.584mm,94.615mm)(67.18mm,94.019mm) on Bottom Layer 
+Rule Violations :129
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad M3-4(-74.786mm,92.883mm) on Bottom Layer And Pad Free-3(-71.391mm,93.118mm) on Multi-Layer Location : [X = 647.784mm][Y = 548.315mm]
+   Violation between Short-Circuit Constraint: Between Track (-21.961mm,78.392mm)(-20.637mm,78.392mm) on Bottom Layer And Pad U19-0(-21.299mm,78.392mm) on Multi-Layer Location : [X = 698.984mm][Y = 533.589mm]
+   Violation between Short-Circuit Constraint: Between Pad D10-K(-73.66mm,80.9mm) on Bottom Layer And Pad S1-0(-75.534mm,83.644mm) on Multi-Layer Location : [X = 644.867mm][Y = 538.268mm]
+   Violation between Short-Circuit Constraint: Between Via (-77.174mm,90.496mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 643.109mm][Y = 545.693mm]
+   Violation between Short-Circuit Constraint: Between Via (-77.174mm,92.883mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 643.109mm][Y = 548.08mm]
+   Violation between Short-Circuit Constraint: Between Via (-77.174mm,94.077mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 643.109mm][Y = 549.274mm]
+   Violation between Short-Circuit Constraint: Between Via (-74.786mm,90.496mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 645.497mm][Y = 545.693mm]
+   Violation between Short-Circuit Constraint: Between Via (-74.786mm,92.883mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 645.497mm][Y = 548.08mm]
+   Violation between Short-Circuit Constraint: Between Via (-74.786mm,94.077mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 645.497mm][Y = 549.274mm]
+   Violation between Short-Circuit Constraint: Between Via (-72.398mm,90.496mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 647.885mm][Y = 545.693mm]
+   Violation between Short-Circuit Constraint: Between Via (-73.592mm,90.496mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 646.691mm][Y = 545.693mm]
+   Violation between Short-Circuit Constraint: Between Via (-72.398mm,92.883mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 647.885mm][Y = 548.08mm]
+   Violation between Short-Circuit Constraint: Between Via (-73.592mm,92.883mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 646.691mm][Y = 548.08mm]
+   Violation between Short-Circuit Constraint: Between Via (-72.398mm,94.077mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 647.885mm][Y = 549.274mm]
+   Violation between Short-Circuit Constraint: Between Via (-73.592mm,94.077mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 646.691mm][Y = 549.274mm]
+   Violation between Short-Circuit Constraint: Between Via (-77.174mm,91.69mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 643.109mm][Y = 546.887mm]
+   Violation between Short-Circuit Constraint: Between Via (-77.174mm,95.271mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 643.109mm][Y = 550.468mm]
+   Violation between Short-Circuit Constraint: Between Via (-74.786mm,91.69mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 645.497mm][Y = 546.887mm]
+   Violation between Short-Circuit Constraint: Between Via (-74.786mm,95.271mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 645.497mm][Y = 550.468mm]
+   Violation between Short-Circuit Constraint: Between Via (-72.398mm,91.69mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 647.885mm][Y = 546.887mm]
+   Violation between Short-Circuit Constraint: Between Via (-73.592mm,91.69mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 646.691mm][Y = 546.887mm]
+   Violation between Short-Circuit Constraint: Between Via (-72.398mm,95.271mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 647.885mm][Y = 550.468mm]
+   Violation between Short-Circuit Constraint: Between Via (-73.592mm,95.271mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 646.691mm][Y = 550.468mm]
+   Violation between Short-Circuit Constraint: Between Via (-75.98mm,90.496mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 644.303mm][Y = 545.693mm]
+   Violation between Short-Circuit Constraint: Between Via (-75.98mm,92.883mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 644.303mm][Y = 548.08mm]
+   Violation between Short-Circuit Constraint: Between Via (-75.98mm,94.077mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 644.303mm][Y = 549.274mm]
+   Violation between Short-Circuit Constraint: Between Via (-75.98mm,91.69mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 644.303mm][Y = 546.887mm]
+   Violation between Short-Circuit Constraint: Between Via (-75.98mm,95.271mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 644.303mm][Y = 550.468mm]
+   Violation between Short-Circuit Constraint: Between Track (92.1mm,83.4mm)(92.1mm,84.9mm) on Bottom Layer And Via (92.1mm,85.142mm) from Component Side to Bottom Layer Location : [X = 812.383mm][Y = 540.099mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54mm,60.3mm) from Component Side to Bottom Layer Location : [X = 774.283mm][Y = 515.497mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (39.5mm,4.9mm) from Component Side to Bottom Layer Location : [X = 759.783mm][Y = 460.097mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-104.6mm,3.6mm) from Component Side to Bottom Layer Location : [X = 615.683mm][Y = 458.797mm]
+   Violation between Short-Circuit Constraint: Between Track (102mm,61.6mm)(102mm,61.6mm) on Component Side And Via (102.1mm,61.6mm) from Component Side to Bottom Layer Location : [X = 822.283mm][Y = 516.797mm]
+   Violation between Short-Circuit Constraint: Between Track (93.5mm,83.4mm)(93.5mm,84.6mm) on Bottom Layer And Via (93.5mm,84.6mm) from Component Side to Bottom Layer Location : [X = 813.783mm][Y = 539.678mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (84.124mm,6.876mm) from Component Side to Bottom Layer Location : [X = 804.407mm][Y = 462.073mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (84.124mm,6.876mm) from Component Side to Bottom Layer Location : [X = 804.407mm][Y = 462.073mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (8.25mm,1.4mm) from Component Side to Bottom Layer Location : [X = 728.533mm][Y = 456.597mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (8.25mm,1.4mm) from Component Side to Bottom Layer Location : [X = 728.533mm][Y = 456.597mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-13.1mm,12mm) from Component Side to Bottom Layer Location : [X = 707.183mm][Y = 467.197mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-13.1mm,12mm) from Component Side to Bottom Layer Location : [X = 707.183mm][Y = 467.197mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-13.6mm,4.365mm) from Component Side to Bottom Layer Location : [X = 706.683mm][Y = 459.562mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-11.3mm,3.8mm) from Component Side to Bottom Layer Location : [X = 708.983mm][Y = 458.997mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-11.3mm,3.8mm) from Component Side to Bottom Layer Location : [X = 708.983mm][Y = 458.997mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-11.5mm,1.8mm) from Component Side to Bottom Layer Location : [X = 708.783mm][Y = 456.997mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-11.5mm,1.8mm) from Component Side to Bottom Layer Location : [X = 708.783mm][Y = 456.997mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-100.553mm,7.347mm) from Component Side to Bottom Layer Location : [X = 619.73mm][Y = 462.544mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-100.553mm,7.347mm) from Component Side to Bottom Layer Location : [X = 619.73mm][Y = 462.544mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (87.491mm,47.9mm) from Component Side to Bottom Layer Location : [X = 807.849mm][Y = 503.097mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (87.491mm,47.9mm) from Component Side to Bottom Layer Location : [X = 807.849mm][Y = 503.097mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.5mm,57.6mm) from Component Side to Bottom Layer Location : [X = 778.783mm][Y = 512.797mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (58.5mm,57.6mm) from Component Side to Bottom Layer Location : [X = 778.783mm][Y = 512.797mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (47.7mm,3.9mm) from Component Side to Bottom Layer Location : [X = 767.983mm][Y = 459.097mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (47.7mm,3.9mm) from Component Side to Bottom Layer Location : [X = 767.983mm][Y = 459.097mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-1mm,5.4mm) from Component Side to Bottom Layer Location : [X = 719.283mm][Y = 460.597mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (0.006mm,5.4mm) from Component Side to Bottom Layer Location : [X = 720.289mm][Y = 460.597mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (0.5mm,9.4mm) from Component Side to Bottom Layer Location : [X = 720.672mm][Y = 464.594mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (1.3mm,9.4mm) from Component Side to Bottom Layer Location : [X = 721.645mm][Y = 464.597mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (1.3mm,9.4mm) from Component Side to Bottom Layer Location : [X = 721.645mm][Y = 464.597mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-0.5mm,9.5mm) from Component Side to Bottom Layer Location : [X = 719.783mm][Y = 464.697mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-6.7mm,9.4mm) from Component Side to Bottom Layer Location : [X = 713.583mm][Y = 464.597mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-7.4mm,11.2mm) from Component Side to Bottom Layer Location : [X = 712.883mm][Y = 466.397mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-11.15mm,8.6mm) from Component Side to Bottom Layer Location : [X = 709.133mm][Y = 463.797mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (4.461mm,4.552mm) from Component Side to Bottom Layer Location : [X = 724.744mm][Y = 459.749mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (4.461mm,4.552mm) from Component Side to Bottom Layer Location : [X = 724.744mm][Y = 459.749mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (5mm,5.4mm) from Component Side to Bottom Layer Location : [X = 725.283mm][Y = 460.597mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (12.6mm,11.2mm) from Component Side to Bottom Layer Location : [X = 732.883mm][Y = 466.397mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-98.1mm,29.3mm) from Component Side to Bottom Layer Location : [X = 622.183mm][Y = 484.497mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-98.1mm,29.3mm) from Component Side to Bottom Layer Location : [X = 622.183mm][Y = 484.497mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-27.305mm,34.844mm) from Component Side to Bottom Layer Location : [X = 692.978mm][Y = 490.178mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-79.395mm,34.686mm) from Component Side to Bottom Layer Location : [X = 640.888mm][Y = 489.883mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-79.395mm,34.686mm) from Component Side to Bottom Layer Location : [X = 640.888mm][Y = 489.883mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-24.7mm,59.7mm) from Component Side to Bottom Layer Location : [X = 695.583mm][Y = 514.897mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-24.7mm,59.7mm) from Component Side to Bottom Layer Location : [X = 695.583mm][Y = 514.897mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-22.907mm,59.7mm) from Component Side to Bottom Layer Location : [X = 697.376mm][Y = 514.897mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-22.907mm,59.7mm) from Component Side to Bottom Layer Location : [X = 697.376mm][Y = 514.897mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-21.84mm,59.8mm) from Component Side to Bottom Layer Location : [X = 698.443mm][Y = 514.997mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-21.84mm,59.8mm) from Component Side to Bottom Layer Location : [X = 698.443mm][Y = 514.997mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-76.974mm,2.125mm) from Component Side to Bottom Layer Location : [X = 643.309mm][Y = 457.322mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-81.661mm,66.36mm) from Component Side to Bottom Layer Location : [X = 638.633mm][Y = 521.557mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-81.661mm,66.36mm) from Component Side to Bottom Layer Location : [X = 638.633mm][Y = 521.557mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-78.6mm,82mm) from Component Side to Bottom Layer Location : [X = 641.683mm][Y = 537.197mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (-77.072mm,83.175mm) from Component Side to Bottom Layer Location : [X = 643.211mm][Y = 538.372mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (-77.072mm,83.175mm) from Component Side to Bottom Layer Location : [X = 643.211mm][Y = 538.372mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (0.739mm,77.9mm) from Component Side to Bottom Layer Location : [X = 721.022mm][Y = 533.097mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (0.739mm,77.9mm) from Component Side to Bottom Layer Location : [X = 721.022mm][Y = 533.097mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.754mm,65.5mm) from Component Side to Bottom Layer Location : [X = 779.037mm][Y = 520.697mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.785mm,66.665mm) from Component Side to Bottom Layer Location : [X = 779.068mm][Y = 521.862mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.8mm,67.9mm) from Component Side to Bottom Layer Location : [X = 779.083mm][Y = 523.097mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.754mm,69.1mm) from Component Side to Bottom Layer Location : [X = 779.037mm][Y = 524.297mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.8mm,71.1mm) from Component Side to Bottom Layer Location : [X = 779.083mm][Y = 526.297mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.754mm,73.1mm) from Component Side to Bottom Layer Location : [X = 779.037mm][Y = 528.297mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.754mm,75.1mm) from Component Side to Bottom Layer Location : [X = 779.037mm][Y = 530.297mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.754mm,77.1mm) from Component Side to Bottom Layer Location : [X = 779.037mm][Y = 532.297mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.754mm,78.3mm) from Component Side to Bottom Layer Location : [X = 779.037mm][Y = 533.497mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (58.8mm,79.5mm) from Component Side to Bottom Layer Location : [X = 779.083mm][Y = 534.697mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.366mm,65.1mm) from Component Side to Bottom Layer Location : [X = 774.649mm][Y = 520.297mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.366mm,66.7mm) from Component Side to Bottom Layer Location : [X = 774.649mm][Y = 521.897mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.366mm,67.9mm) from Component Side to Bottom Layer Location : [X = 774.649mm][Y = 523.097mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.366mm,69.5mm) from Component Side to Bottom Layer Location : [X = 774.649mm][Y = 524.697mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (53.617mm,71.655mm) from Component Side to Bottom Layer Location : [X = 773.809mm][Y = 526.854mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (53.617mm,71.655mm) from Component Side to Bottom Layer Location : [X = 773.809mm][Y = 526.854mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.258mm,71.311mm) from Component Side to Bottom Layer Location : [X = 774.569mm][Y = 526.492mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.366mm,73.5mm) from Component Side to Bottom Layer Location : [X = 774.649mm][Y = 528.697mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.366mm,75.5mm) from Component Side to Bottom Layer Location : [X = 774.649mm][Y = 530.697mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.366mm,77.1mm) from Component Side to Bottom Layer Location : [X = 774.649mm][Y = 532.297mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.3mm,78.3mm) from Component Side to Bottom Layer Location : [X = 774.583mm][Y = 533.497mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (53.359mm,79.897mm) from Component Side to Bottom Layer Location : [X = 773.515mm][Y = 535.094mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (53.359mm,79.897mm) from Component Side to Bottom Layer Location : [X = 773.515mm][Y = 535.094mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (54.3mm,79.5mm) from Component Side to Bottom Layer Location : [X = 774.583mm][Y = 534.697mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,60.3mm) from Component Side to Bottom Layer Location : [X = 745.117mm][Y = 515.497mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,61.5mm) from Component Side to Bottom Layer Location : [X = 745.117mm][Y = 516.697mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.9mm,62.7mm) from Component Side to Bottom Layer Location : [X = 745.183mm][Y = 517.897mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,63.9mm) from Component Side to Bottom Layer Location : [X = 745.117mm][Y = 519.097mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,65.1mm) from Component Side to Bottom Layer Location : [X = 745.117mm][Y = 520.297mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.865mm,66.265mm) from Component Side to Bottom Layer Location : [X = 745.148mm][Y = 521.462mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,67.5mm) from Component Side to Bottom Layer Location : [X = 745.117mm][Y = 522.697mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (23mm,69mm) from Component Side to Bottom Layer Location : [X = 743.283mm][Y = 524.197mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (23mm,69mm) from Component Side to Bottom Layer Location : [X = 743.283mm][Y = 524.197mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (22.2mm,69.6mm) from Component Side to Bottom Layer Location : [X = 742.483mm][Y = 524.797mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (22.2mm,69.6mm) from Component Side to Bottom Layer Location : [X = 742.483mm][Y = 524.797mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,68.7mm) from Component Side to Bottom Layer Location : [X = 745.116mm][Y = 523.897mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,72.3mm) from Component Side to Bottom Layer Location : [X = 745.117mm][Y = 527.497mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.873mm,73.546mm) from Component Side to Bottom Layer Location : [X = 745.156mm][Y = 528.743mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,74.7mm) from Component Side to Bottom Layer Location : [X = 745.117mm][Y = 529.897mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,75.9mm) from Component Side to Bottom Layer Location : [X = 745.117mm][Y = 531.097mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.834mm,77.1mm) from Component Side to Bottom Layer Location : [X = 745.117mm][Y = 532.297mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (24.855mm,78.323mm) from Component Side to Bottom Layer Location : [X = 745.138mm][Y = 533.52mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.446mm,78.3mm) from Component Side to Bottom Layer Location : [X = 740.729mm][Y = 533.497mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,77.1mm) from Component Side to Bottom Layer Location : [X = 740.683mm][Y = 532.297mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,75.935mm) from Component Side to Bottom Layer Location : [X = 740.683mm][Y = 531.132mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,74.7mm) from Component Side to Bottom Layer Location : [X = 740.683mm][Y = 529.897mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,73.535mm) from Component Side to Bottom Layer Location : [X = 740.683mm][Y = 528.732mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,72.3mm) from Component Side to Bottom Layer Location : [X = 740.683mm][Y = 527.497mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.3mm,71.1mm) from Component Side to Bottom Layer Location : [X = 740.583mm][Y = 526.297mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,69.9mm) from Component Side to Bottom Layer Location : [X = 740.683mm][Y = 525.097mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,67.535mm) from Component Side to Bottom Layer Location : [X = 740.683mm][Y = 522.732mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.39mm,68.77mm) from Component Side to Bottom Layer Location : [X = 740.673mm][Y = 523.967mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.446mm,66.3mm) from Component Side to Bottom Layer Location : [X = 740.729mm][Y = 521.497mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (18.8mm,64.7mm) from Component Side to Bottom Layer Location : [X = 739.083mm][Y = 519.897mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (942 hole(s)) Signal Layer 2 And Via (18.8mm,64.7mm) from Component Side to Bottom Layer Location : [X = 739.083mm][Y = 519.897mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (19.9mm,65.1mm) from Component Side to Bottom Layer Location : [X = 740.182mm][Y = 520.299mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,61.5mm) from Component Side to Bottom Layer Location : [X = 740.683mm][Y = 516.697mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (990 hole(s)) Signal Layer 1 And Via (20.4mm,60.3mm) from Component Side to Bottom Layer Location : [X = 740.683mm][Y = 515.497mm]
+   Violation between Short-Circuit Constraint: Between Track (100.5mm,60mm)(102.1mm,61.6mm) on Component Side And Track (102mm,61.6mm)(102mm,61.6mm) on Component Side Location : [X = 822.295mm][Y = 516.785mm]
+Rule Violations :144
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetU9_28B Between Track (-29.909mm,58.612mm)(-29.909mm,63.116mm) on Bottom Layer And Pad U9-28B(71.33mm,48.672mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetU9_24B Between Track (-26.997mm,58.59mm)(-26.907mm,58.68mm) on Bottom Layer And Track (-26.997mm,58.59mm)(-18.728mm,50.322mm) on Component Side 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C7_M2-2(-51.37mm,25.019mm) on Bottom Layer And Via (-50.566mm,25.019mm) from Component Side to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C56-2(93.5mm,83.6mm) on Component Side And Via (93.5mm,84.6mm) from Component Side to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (-90.68mm,81.365mm)(-90.617mm,81.301mm) on Bottom Layer And Track (-88.691mm,79.015mm)(-88.691mm,81.301mm) on Component Side 
+   Violation between Un-Routed Net Constraint: Net V_Bat Between Pad C44_PS6-1(31.004mm,27.459mm) on Bottom Layer And Pad U22_PS7 5V-11(38.617mm,27.948mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net V_Bat Between Pad C40_PS4-1(8.439mm,27.345mm) on Bottom Layer And Pad U23_PS1-11(17.883mm,27.392mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net V_Bat Between Pad C44_PS3-1(-65.965mm,52.684mm) on Bottom Layer And Pad U23_PS5-11(-51.432mm,52.6mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net V_Bat Between Via (-8.1mm,82.7mm) from Component Side to Bottom Layer And Via (-2.9mm,60.8mm) from Component Side to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net V_Bat Between Pad C44_PS1-1(19.518mm,27.454mm) on Bottom Layer And Pad U23_PS6-11(29.369mm,27.397mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net V_Bat Between Via (-2.9mm,60.8mm) from Component Side to Bottom Layer And Pad U22_PS4-10(6.635mm,27.7mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net V_Bat Between Pad C44_PS5-1(-49.797mm,52.662mm) on Bottom Layer And Via (-2.9mm,60.8mm) from Component Side to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_Screen Between Pad U23_PS5-3(-54.232mm,52.1mm) on Bottom Layer And Track (-33.721mm,65.251mm)(-33.644mm,65.174mm) on Component Side 
+   Violation between Un-Routed Net Constraint: Net 5V_HDMI_A Between Track (76.259mm,83.311mm)(76.388mm,83.181mm) on Bottom Layer And Pad C56-1(92.1mm,83.6mm) on Component Side 
+   Violation between Un-Routed Net Constraint: Net NetD4_1 Between Track (-33.721mm,70.464mm)(-33.721mm,70.532mm) on Component Side And Track (-34.774mm,70.532mm)(-33.721mm,70.532mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ3_1 Between Track (-62.702mm,51.406mm)(-62.677mm,51.381mm) on Component Side And Track (-62.702mm,51.406mm)(-62.702mm,66.519mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetR27_2 Between Track (-42.611mm,39.925mm)(-42.611mm,41.854mm) on Bottom Layer And Track (-42.611mm,41.854mm)(-42.611mm,42.171mm) on Component Side 
+   Violation between Un-Routed Net Constraint: Net NetCM1_91 Between Track (8.702mm,86.9mm)(9.9mm,86.9mm) on Bottom Layer And Track (8.682mm,86.88mm)(8.702mm,86.9mm) on Component Side 
+   Violation between Un-Routed Net Constraint: Net DRV Between Track (-74.955mm,77.4mm)(-74.932mm,77.423mm) on Component Side And Track (-76.182mm,77.4mm)(-74.955mm,77.4mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net Vi Between Pad Q4-5(-40.767mm,54.483mm) on Bottom Layer And Track (-9.362mm,70.964mm)(-9.362mm,71.116mm) on Bottom Layer 
+Rule Violations :20
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (Component Side-No Net) on Signal Layer 1 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (Component Side-No Net) on Signal Layer 1 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (Signal Layer 2-VCC_FPGA) on Signal Layer 2 
+Rule Violations :3
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=1mm) (Preferred=0.127mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=1mm) (Preferred=0.127mm) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=100%) (All)
+   Violation between SMD Neck-Down Constraint: Between Pad U18-3(66.338mm,92.837mm) on Bottom Layer And Track (66.338mm,92.837mm)(66.338mm,92.837mm) on Bottom Layer Relative Track Width: 300,00%
+   Violation between SMD Neck-Down Constraint: Between Pad U19-3(-21.962mm,78.392mm) on Bottom Layer And Track (-21.961mm,78.392mm)(-20.637mm,78.392mm) on Bottom Layer Relative Track Width: 127,00%
+   Violation between SMD Neck-Down Constraint: Between Pad U24-12(0.5mm,8.712mm) on Bottom Layer And Track (0.5mm,8.712mm)(0.5mm,9.4mm) on Bottom Layer Relative Track Width: 118,11%
+   Violation between SMD Neck-Down Constraint: Between Pad U24-2(0.5mm,6.02mm) on Bottom Layer And Track (0.5mm,5.576mm)(0.5mm,6.02mm) on Bottom Layer Relative Track Width: 118,11%
+   Violation between SMD Neck-Down Constraint: Between Pad U24-3(0mm,6.02mm) on Bottom Layer And Track (0mm,6.02mm)(0.003mm,6.017mm) on Bottom Layer Relative Track Width: 118,11%
+   Violation between SMD Neck-Down Constraint: Between Pad U24-10(-0.5mm,8.712mm) on Bottom Layer And Track (-0.5mm,8.712mm)(-0.5mm,8.712mm) on Bottom Layer Relative Track Width: 118,11%
+   Violation between SMD Neck-Down Constraint: Between Pad U24-5(-1mm,6.02mm) on Bottom Layer And Track (-1mm,6.02mm)(-1mm,6.02mm) on Bottom Layer Relative Track Width: 118,11%
+   Violation between SMD Neck-Down Constraint: Between Pad U22_PS4-1(3.835mm,25.7mm) on Bottom Layer And Track (3.6mm,25.504mm)(3.796mm,25.7mm) on Bottom Layer Relative Track Width: 105,83%
+Rule Violations :8
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.25mm) (Max=100mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.127mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.127mm) Between Via (-72.398mm,92.883mm) from Component Side to Bottom Layer And Pad Free-3(-71.391mm,93.118mm) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.127mm) Between Via (-72.398mm,94.077mm) from Component Side to Bottom Layer And Pad Free-3(-71.391mm,93.118mm) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.127mm) Between Via (-72.398mm,91.69mm) from Component Side to Bottom Layer And Pad Free-3(-71.391mm,93.118mm) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (0.041mm < 0.127mm) Between Via (-47.437mm,41.703mm) from Component Side to Bottom Layer And Via (-47.691mm,41.56mm) from Component Side to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.127mm) Between Via (-82.951mm,28.312mm) from Component Side to Bottom Layer And Via (-82.799mm,28.312mm) from Component Side to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.127mm) Between Via (-82.707mm,28.312mm) from Component Side to Bottom Layer And Via (-82.799mm,28.312mm) from Component Side to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.127mm) Between Via (-82.582mm,28.312mm) from Component Side to Bottom Layer And Via (-82.799mm,28.312mm) from Component Side to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (0.12mm < 0.127mm) Between Via (-82.951mm,28.312mm) from Component Side to Bottom Layer And Via (-82.582mm,28.312mm) from Component Side to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.127mm) Between Via (-82.707mm,28.312mm) from Component Side to Bottom Layer And Via (-82.582mm,28.312mm) from Component Side to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.127mm) Between Via (76.034mm,95.712mm) from Component Side to Bottom Layer And Via (76.016mm,95.729mm) from Component Side to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.127mm) Between Via (-82.951mm,28.312mm) from Component Side to Bottom Layer And Via (-82.707mm,28.312mm) from Component Side to Bottom Layer Pad/Via Touching Holes
+Rule Violations :11
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Arc (96.73mm,56.291mm) on Component Side 
+   Violation between Net Antennae: Arc (99.27mm,56.291mm) on Component Side 
+   Violation between Net Antennae: Via (-85.643mm,58.112mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-104.6mm,3.6mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-50.566mm,25.019mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (93.5mm,84.6mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-2.9mm,60.8mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Track (42.868mm,6.478mm)(44.317mm,9.586mm) on Component Side 
+   Violation between Net Antennae: Track (41.004mm,6.087mm)(43.258mm,10.921mm) on Component Side 
+   Violation between Net Antennae: Track (39.623mm,6.731mm)(41.877mm,11.565mm) on Component Side 
+   Violation between Net Antennae: Track (87.472mm,40.208mm)(89.224mm,38.738mm) on Component Side 
+   Violation between Net Antennae: Track (85.617mm,39.775mm)(89.411mm,36.591mm) on Component Side 
+   Violation between Net Antennae: Track (84.346mm,38.853mm)(88.432mm,35.424mm) on Component Side 
+   Violation between Net Antennae: Track (83.658mm,37.44mm)(87.452mm,34.256mm) on Component Side 
+   Violation between Net Antennae: Track (83.554mm,35.538mm)(85.305mm,34.069mm) on Component Side 
+   Violation between Net Antennae: Track (83.989mm,26.834mm)(85.499mm,25.567mm) on Component Side 
+   Violation between Net Antennae: Track (82.134mm,26.402mm)(85.928mm,23.218mm) on Component Side 
+   Violation between Net Antennae: Track (80.862mm,25.479mm)(84.949mm,22.05mm) on Component Side 
+   Violation between Net Antennae: Track (80.175mm,24.067mm)(83.969mm,20.883mm) on Component Side 
+   Violation between Net Antennae: Track (80.071mm,22.165mm)(81.822mm,20.695mm) on Component Side 
+   Violation between Net Antennae: Track (52.429mm,6.459mm)(54.522mm,10.948mm) on Component Side 
+   Violation between Net Antennae: Track (51.692mm,8.484mm)(52.658mm,10.556mm) on Component Side 
+   Violation between Net Antennae: Track (57.217mm,5.908mm)(58.183mm,7.98mm) on Component Side 
+   Violation between Net Antennae: Track (37.873mm,8.387mm)(38.839mm,10.459mm) on Component Side 
+   Violation between Net Antennae: Track (43.53mm,6.096mm)(44.364mm,7.883mm) on Component Side 
+   Violation between Net Antennae: Track (55.192mm,5.171mm)(57.285mm,9.66mm) on Component Side 
+   Violation between Net Antennae: Track (53.81mm,5.815mm)(56.065mm,10.649mm) on Component Side 
+   Violation between Net Antennae: Track (39.991mm,5.718mm)(42.245mm,10.552mm) on Component Side 
+   Violation between Net Antennae: Track (41.372mm,5.074mm)(43.465mm,9.563mm) on Component Side 
+   Violation between Net Antennae: Track (-78.785mm,74.951mm)(-75.356mm,74.951mm) on Component Side 
+   Violation between Net Antennae: Track (-79.928mm,71.903mm)(-74.594mm,71.903mm) on Component Side 
+   Violation between Net Antennae: Track (-78.785mm,70.379mm)(-75.356mm,70.379mm) on Component Side 
+   Violation between Net Antennae: Track (-76.118mm,69.617mm)(-75.356mm,70.379mm) on Component Side 
+   Violation between Net Antennae: Track (-82.595mm,63.14mm)(-82.595mm,65.426mm) on Component Side 
+   Violation between Net Antennae: Track (-84.119mm,61.616mm)(-84.119mm,66.569mm) on Component Side 
+   Violation between Net Antennae: Track (-85.643mm,61.616mm)(-85.643mm,66.95mm) on Component Side 
+   Violation between Net Antennae: Track (-87.167mm,61.616mm)(-87.167mm,66.569mm) on Component Side 
+   Violation between Net Antennae: Track (-88.691mm,63.162mm)(-88.691mm,65.426mm) on Component Side 
+   Violation between Net Antennae: Track (-92.12mm,75.713mm)(-91.358mm,74.951mm) on Component Side 
+   Violation between Net Antennae: Track (-94.787mm,74.951mm)(-91.358mm,74.951mm) on Component Side 
+   Violation between Net Antennae: Track (54.823mm,6.183mm)(57.077mm,11.018mm) on Component Side 
+   Violation between Net Antennae: Track (52.544mm,8.507mm)(53.993mm,11.615mm) on Component Side 
+   Violation between Net Antennae: Track (52.98mm,11.247mm)(53.993mm,11.615mm) on Component Side 
+   Violation between Net Antennae: Track (53.442mm,6.827mm)(55.696mm,11.662mm) on Component Side 
+   Violation between Net Antennae: Track (-88.691mm,82.063mm)(-87.929mm,82.825mm) on Component Side 
+   Violation between Net Antennae: Track (-95.168mm,75.713mm)(-92.882mm,75.713mm) on Component Side 
+   Violation between Net Antennae: Track (-96.692mm,74.189mm)(-91.739mm,74.189mm) on Component Side 
+   Violation between Net Antennae: Track (-96.692mm,72.665mm)(-91.358mm,72.665mm) on Component Side 
+   Violation between Net Antennae: Track (-96.692mm,71.141mm)(-91.739mm,71.141mm) on Component Side 
+   Violation between Net Antennae: Track (-79.166mm,75.713mm)(-76.88mm,75.713mm) on Component Side 
+   Violation between Net Antennae: Track (-80.69mm,74.189mm)(-75.737mm,74.189mm) on Component Side 
+   Violation between Net Antennae: Track (-80.69mm,72.665mm)(-75.356mm,72.665mm) on Component Side 
+   Violation between Net Antennae: Track (-83.357mm,63.521mm)(-83.357mm,66.95mm) on Component Side 
+   Violation between Net Antennae: Track (-84.881mm,62.378mm)(-84.881mm,67.712mm) on Component Side 
+   Violation between Net Antennae: Track (-86.405mm,62.378mm)(-86.405mm,67.712mm) on Component Side 
+   Violation between Net Antennae: Track (-87.929mm,63.521mm)(-87.929mm,66.95mm) on Component Side 
+   Violation between Net Antennae: Track (-88.691mm,66.188mm)(-87.929mm,66.95mm) on Component Side 
+   Violation between Net Antennae: Track (85.815mm,40.604mm)(88.442mm,38.4mm) on Component Side 
+   Violation between Net Antennae: Track (84.252mm,39.926mm)(88.338mm,36.497mm) on Component Side 
+   Violation between Net Antennae: Track (83.272mm,38.759mm)(87.358mm,35.33mm) on Component Side 
+   Violation between Net Antennae: Track (82.876mm,37.101mm)(85.503mm,34.897mm) on Component Side 
+   Violation between Net Antennae: Track (82.332mm,27.23mm)(84.959mm,25.026mm) on Component Side 
+   Violation between Net Antennae: Track (80.769mm,26.553mm)(84.855mm,23.124mm) on Component Side 
+   Violation between Net Antennae: Track (79.789mm,25.385mm)(83.875mm,21.957mm) on Component Side 
+   Violation between Net Antennae: Track (79.393mm,23.728mm)(82.02mm,21.524mm) on Component Side 
+   Violation between Net Antennae: Track (79.393mm,58.424mm)(82.02mm,56.22mm) on Component Side 
+   Violation between Net Antennae: Track (79.789mm,60.082mm)(83.875mm,56.653mm) on Component Side 
+   Violation between Net Antennae: Track (79.393mm,58.424mm)(79.487mm,57.351mm) on Component Side 
+   Violation between Net Antennae: Track (80.769mm,61.249mm)(84.855mm,57.821mm) on Component Side 
+   Violation between Net Antennae: Track (82.332mm,61.927mm)(84.959mm,59.723mm) on Component Side 
+   Violation between Net Antennae: Track (82.332mm,61.927mm)(83.405mm,62.021mm) on Component Side 
+   Violation between Net Antennae: Track (82.876mm,71.798mm)(85.503mm,69.594mm) on Component Side 
+   Violation between Net Antennae: Track (83.272mm,73.455mm)(87.358mm,70.027mm) on Component Side 
+   Violation between Net Antennae: Track (82.876mm,71.798mm)(82.97mm,70.724mm) on Component Side 
+   Violation between Net Antennae: Track (84.252mm,74.623mm)(88.338mm,71.194mm) on Component Side 
+   Violation between Net Antennae: Track (85.815mm,75.3mm)(88.442mm,73.096mm) on Component Side 
+   Violation between Net Antennae: Track (85.815mm,75.3mm)(86.889mm,75.394mm) on Component Side 
+   Violation between Net Antennae: Track (80.071mm,56.861mm)(81.822mm,55.392mm) on Component Side 
+   Violation between Net Antennae: Track (80.175mm,58.763mm)(83.969mm,55.58mm) on Component Side 
+   Violation between Net Antennae: Track (80.862mm,60.176mm)(84.949mm,56.747mm) on Component Side 
+   Violation between Net Antennae: Track (82.134mm,61.098mm)(85.928mm,57.914mm) on Component Side 
+   Violation between Net Antennae: Track (83.989mm,61.531mm)(85.499mm,60.264mm) on Component Side 
+   Violation between Net Antennae: Track (83.554mm,70.235mm)(85.305mm,68.765mm) on Component Side 
+   Violation between Net Antennae: Track (83.658mm,72.137mm)(87.452mm,68.953mm) on Component Side 
+   Violation between Net Antennae: Track (84.346mm,73.549mm)(88.432mm,70.12mm) on Component Side 
+   Violation between Net Antennae: Track (85.617mm,74.472mm)(89.411mm,71.288mm) on Component Side 
+   Violation between Net Antennae: Track (87.472mm,74.904mm)(89.224mm,73.435mm) on Component Side 
+   Violation between Net Antennae: Track (-83.357mm,79.396mm)(-83.357mm,82.825mm) on Component Side 
+   Violation between Net Antennae: Track (-86.405mm,78.253mm)(-86.405mm,83.587mm) on Component Side 
+   Violation between Net Antennae: Track (-84.119mm,77.491mm)(-84.119mm,82.444mm) on Component Side 
+   Violation between Net Antennae: Track (-84.881mm,78.253mm)(-84.881mm,83.587mm) on Component Side 
+   Violation between Net Antennae: Track (-87.929mm,79.396mm)(-87.929mm,82.825mm) on Component Side 
+   Violation between Net Antennae: Track (-88.691mm,79.015mm)(-88.691mm,81.301mm) on Component Side 
+   Violation between Net Antennae: Track (-78.679mm,71.141mm)(-75.737mm,71.141mm) on Component Side 
+   Violation between Net Antennae: Track (56.687mm,6.575mm)(57.095mm,7.45mm) on Component Side 
+   Violation between Net Antennae: Track (-87.167mm,78.833mm)(-87.167mm,82.444mm) on Component Side 
+   Violation between Net Antennae: Track (-62.677mm,51.381mm)(-62.144mm,51.381mm) on Component Side 
+   Violation between Net Antennae: Track (-74.932mm,77.423mm)(-64.996mm,77.423mm) on Component Side 
+   Violation between Net Antennae: Track (8.682mm,86.88mm)(10.551mm,85.01mm) on Component Side 
+   Violation between Net Antennae: Track (-42.611mm,41.854mm)(-42.611mm,42.171mm) on Component Side 
+   Violation between Net Antennae: Track (-26.997mm,58.59mm)(-18.728mm,50.322mm) on Component Side 
+   Violation between Net Antennae: Track (-29.909mm,58.609mm)(-20.606mm,49.306mm) on Component Side 
+   Violation between Net Antennae: Track (-94.787mm,70.379mm)(-92.395mm,70.379mm) on Component Side 
+   Violation between Net Antennae: Track (-91.876mm,69.861mm)(-91.358mm,70.379mm) on Component Side 
+   Violation between Net Antennae: Track (-95.93mm,71.903mm)(-91.887mm,71.903mm) on Component Side 
+   Violation between Net Antennae: Track (-95.93mm,73.427mm)(-90.871mm,73.427mm) on Component Side 
+   Violation between Net Antennae: Track (-85.643mm,77.513mm)(-85.643mm,82.825mm) on Component Side 
+   Violation between Net Antennae: Track (-82.595mm,80.561mm)(-82.595mm,81.149mm) on Component Side 
+   Violation between Net Antennae: Track (-79.928mm,73.427mm)(-75.123mm,73.427mm) on Component Side 
+   Violation between Net Antennae: Track (39.992mm,9.327mm)(40.574mm,10.574mm) on Component Side 
+   Violation between Net Antennae: Track (38.724mm,8.411mm)(39.1mm,9.215mm) on Component Side 
+   Violation between Net Antennae: Track (-33.721mm,70.464mm)(-28.592mm,70.464mm) on Component Side 
+   Violation between Net Antennae: Track (-90.68mm,81.365mm)(-90.617mm,81.301mm) on Bottom Layer 
+   Violation between Net Antennae: Track (-62.702mm,51.406mm)(-62.702mm,66.519mm) on Bottom Layer 
+   Violation between Net Antennae: Track (-76.182mm,77.4mm)(-74.955mm,77.4mm) on Bottom Layer 
+   Violation between Net Antennae: Track (-9.362mm,70.964mm)(-9.362mm,71.116mm) on Bottom Layer 
+   Violation between Net Antennae: Track (8.702mm,86.9mm)(9.9mm,86.9mm) on Bottom Layer 
+   Violation between Net Antennae: Track (-42.611mm,39.925mm)(-42.611mm,41.854mm) on Bottom Layer 
+   Violation between Net Antennae: Track (-26.997mm,58.59mm)(-26.907mm,58.68mm) on Bottom Layer 
+   Violation between Net Antennae: Track (-29.909mm,58.612mm)(-29.909mm,63.116mm) on Bottom Layer 
+   Violation between Net Antennae: Track (-93.925mm,36.576mm)(-93.611mm,36.263mm) on Bottom Layer 
+   Violation between Net Antennae: Track (-34.774mm,70.532mm)(-33.721mm,70.532mm) on Bottom Layer 
+Rule Violations :122
+
+Processing Rule : Room Designator (Bounding Region = (712.683mm, 504.297mm, 735.783mm, 554.997mm) (InComponentClass('Designator'))
+   Violation between Room Definition: Between Component U29-FEATHER_M0_BASIC_PROTO (3.91mm,74.56mm) on Bottom Layer And Room Designator (Bounding Region = (712.683mm, 504.297mm, 735.783mm, 554.997mm) (InComponentClass('Designator')) 
+Rule Violations :1
+
+Processing Rule : Room CM4 (Bounding Region = (751.783mm, 530.197mm, 756.183mm, 533.997mm) (InComponentClass('CM4'))
+   Violation between Room Definition: Between Component CM1-Raspberry Pi Compute Module 4 (39.6mm,72.2mm) on Bottom Layer And Room CM4 (Bounding Region = (751.783mm, 530.197mm, 756.183mm, 533.997mm) (InComponentClass('CM4')) 
+   Violation between Room Definition: Between SOIC Component U28-TPD12S016PWR (6.8mm,73.4mm) on Bottom Layer And Room CM4 (Bounding Region = (751.783mm, 530.197mm, 756.183mm, 533.997mm) (InComponentClass('CM4')) 
+   Violation between Room Definition: Between SMT Small Component C55-100nF (92.1mm,81.775mm) on Bottom Layer And Room CM4 (Bounding Region = (751.783mm, 530.197mm, 756.183mm, 533.997mm) (InComponentClass('CM4')) 
+   Violation between Room Definition: Between SMT Small Component C56-100nF (92.8mm,83.6mm) on Component Side And Room CM4 (Bounding Region = (751.783mm, 530.197mm, 756.183mm, 533.997mm) (InComponentClass('CM4')) 
+Rule Violations :4
+
+Processing Rule : Height Constraint (Min=0mm) (Max=200mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 442
+Time Elapsed        : 00:00:26

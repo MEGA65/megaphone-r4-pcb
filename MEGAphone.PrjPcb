@@ -547,6 +547,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAOBQBDV
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MEGAphone\Design Rule Check - MEGAphone.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
