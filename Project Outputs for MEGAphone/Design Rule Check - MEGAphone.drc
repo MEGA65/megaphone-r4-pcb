@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Ivan\Documents\GitHub\megaphone-pcb-2020\MEGAphone.PcbDoc
-Date     : 4/20/2022
-Time     : 09:36:54
+Date     : 5/11/2022
+Time     : 14:22:35
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
 Rule Violations :0
@@ -42,76 +42,14 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.127mm) (Max=1mm) (Preferred=0.127mm) (All)
-   Violation between Width Constraint: Track (-48.1mm,48.2mm)(-44.44mm,44.54mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-56.3mm,48.2mm)(-48.1mm,48.2mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-59.1mm,51mm)(-56.3mm,48.2mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-44.44mm,44.54mm)(-33.6mm,44.54mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-59.1mm,51mm)(-59.1mm,57.5mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-61.7mm,60.1mm)(-59.1mm,57.5mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-71.6mm,60.1mm)(-61.7mm,60.1mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-72.7mm,59mm)(-71.6mm,60.1mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-88.1mm,59mm)(-72.7mm,59mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-95.1mm,66mm)(-88.1mm,59mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-95.1mm,66mm)(-95.1mm,84.4mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-96mm,85.3mm)(-95.1mm,84.4mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-102.7mm,85.3mm)(-96mm,85.3mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-104.418mm,83.582mm)(-102.7mm,85.3mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-33.6mm,44.54mm)(-32.2mm,44.54mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-   Violation between Width Constraint: Track (-32.2mm,44.54mm)(-29.6mm,44.54mm) on Bottom Layer Actual Width = 1.2mm, Target Width = 1mm
-Rule Violations :16
-
-Processing Rule : Width Constraint (Min=0.127mm) (Max=1mm) (Preferred=0.127mm) (InNet('GND'))
+Processing Rule : Width Constraint (Min=0.127mm) (Max=1.4mm) (Preferred=0.127mm) (All)
 Rule Violations :0
 
-Processing Rule : SMD Neck-Down Constraint (Percent=100%) (All)
-   Violation between SMD Neck-Down Constraint: Between Pad U22_PS4-3(3.835mm,26.7mm) on Bottom Layer And Track (0.9mm,26.7mm)(3.835mm,26.7mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U22_PS4-1(3.835mm,25.7mm) on Bottom Layer And Track (3.835mm,24.635mm)(3.835mm,25.7mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS3-3(-70.4mm,52.122mm) on Bottom Layer And Track (-70.987mm,52.122mm)(-70.4mm,52.122mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS3-5(-70.4mm,53.122mm) on Bottom Layer And Track (-71.016mm,53.122mm)(-70.4mm,53.122mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS3-4(-70.4mm,52.622mm) on Bottom Layer And Track (-71.185mm,52.622mm)(-70.4mm,52.622mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U2_M1-15(-86.85mm,6.025mm) on Bottom Layer And Track (-88.075mm,6.025mm)(-86.85mm,6.025mm) on Bottom Layer Relative Track Width: 111.11%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS2-3(-83.061mm,49.919mm) on Bottom Layer And Track (-83.619mm,49.919mm)(-83.061mm,49.919mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS2-5(-83.061mm,50.919mm) on Bottom Layer And Track (-83.08mm,50.9mm)(-83.061mm,50.919mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS2-4(-83.061mm,50.419mm) on Bottom Layer And Track (-83.819mm,50.419mm)(-83.061mm,50.419mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS3-12(-67.6mm,52.122mm) on Bottom Layer And Track (-67.6mm,52.032mm)(-67.6mm,52.122mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U32-6(-43.546mm,50.882mm) on Bottom Layer And Track (-43.546mm,50.882mm)(-43.546mm,52.076mm) on Bottom Layer Relative Track Width: 111.11%
-   Violation between SMD Neck-Down Constraint: Between Pad U32-2(-42.896mm,46.482mm) on Bottom Layer And Track (-42.896mm,46.482mm)(-42.896mm,48.65mm) on Bottom Layer Relative Track Width: 111.11%
-   Violation between SMD Neck-Down Constraint: Between Pad Q4-1(-44.577mm,59.483mm) on Bottom Layer And Track (-48.7mm,61.5mm)(-45mm,57.8mm) on Bottom Layer Relative Track Width: 125.00%
-   Violation between SMD Neck-Down Constraint: Between Pad U32-4(-44.196mm,46.482mm) on Bottom Layer And Track (-44.196mm,46.482mm)(-44.196mm,47.796mm) on Bottom Layer Relative Track Width: 111.11%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS1-1(15.083mm,25.892mm) on Bottom Layer And Track (15.083mm,24.399mm)(15.083mm,25.892mm) on Bottom Layer Relative Track Width: 125.00%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS2-1(-83.061mm,48.919mm) on Bottom Layer And Track (-83.061mm,47.425mm)(-83.061mm,48.919mm) on Bottom Layer Relative Track Width: 125.00%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS3-1(-70.4mm,51.122mm) on Bottom Layer And Track (-70.4mm,49.629mm)(-70.4mm,51.122mm) on Bottom Layer Relative Track Width: 158.75%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS5-1(-54.232mm,51.1mm) on Bottom Layer And Track (-54.232mm,49.607mm)(-54.232mm,51.1mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS6-1(26.569mm,25.897mm) on Bottom Layer And Track (26.569mm,24.454mm)(26.569mm,25.897mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U32-7(-42.896mm,50.882mm) on Bottom Layer And Track (-42.896mm,49.996mm)(-42.896mm,50.882mm) on Bottom Layer Relative Track Width: 111.11%
-   Violation between SMD Neck-Down Constraint: Between Pad U32-1(-42.246mm,46.482mm) on Bottom Layer And Track (-42.246mm,46.482mm)(-41.399mm,46.482mm) on Bottom Layer Relative Track Width: 111.11%
-   Violation between SMD Neck-Down Constraint: Between Pad U22_PS7 5V-4(38.617mm,30.748mm) on Bottom Layer And Track (38.617mm,30.748mm)(38.617mm,31.314mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U22_PS7 5V-5(39.117mm,30.748mm) on Bottom Layer And Track (39.117mm,30.748mm)(39.117mm,31.283mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS6-3(26.569mm,26.897mm) on Bottom Layer And Track (26.003mm,26.897mm)(26.569mm,26.897mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS6-4(26.569mm,27.397mm) on Bottom Layer And Track (25.808mm,27.397mm)(26.569mm,27.397mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS6-5(26.569mm,27.897mm) on Bottom Layer And Track (25.988mm,27.897mm)(26.569mm,27.897mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U22_PS4-4(3.835mm,27.2mm) on Bottom Layer And Track (3.392mm,27.2mm)(3.835mm,27.2mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U22_PS4-5(3.835mm,27.7mm) on Bottom Layer And Track (3.4mm,27.7mm)(3.835mm,27.7mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS1-11(17.883mm,27.392mm) on Bottom Layer And Track (17.883mm,27.392mm)(18.5mm,27.392mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS6-11(29.369mm,27.397mm) on Bottom Layer And Track (29.369mm,27.397mm)(29.797mm,27.397mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U22_PS4-11(6.635mm,27.2mm) on Bottom Layer And Track (7.008mm,27.2mm)(7.2mm,27.392mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS1-10(17.883mm,27.892mm) on Bottom Layer And Track (17.883mm,27.892mm)(18.34mm,27.892mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U22_PS4-10(6.635mm,27.7mm) on Bottom Layer And Track (6.635mm,27.7mm)(7.073mm,27.7mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS6-10(29.369mm,27.897mm) on Bottom Layer And Track (29.369mm,27.897mm)(29.796mm,27.897mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS2-11(-80.261mm,50.419mm) on Bottom Layer And Track (-80.261mm,50.419mm)(-79.681mm,50.419mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS2-10(-80.261mm,50.919mm) on Bottom Layer And Track (-80.261mm,50.919mm)(-79.819mm,50.919mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS3-11(-67.6mm,52.622mm) on Bottom Layer And Track (-67.6mm,52.622mm)(-67mm,52.622mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS5-11(-51.432mm,52.6mm) on Bottom Layer And Track (-51.432mm,52.6mm)(-50.9mm,52.6mm) on Bottom Layer Relative Track Width: 125.00%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS3-10(-67.6mm,53.122mm) on Bottom Layer And Track (-67.6mm,53.122mm)(-67.122mm,53.122mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U23_PS5-10(-51.432mm,53.1mm) on Bottom Layer And Track (-51.432mm,53.1mm)(-51.084mm,53.1mm) on Bottom Layer Relative Track Width: 125.00%
-   Violation between SMD Neck-Down Constraint: Between Pad U32-8(-42.246mm,50.882mm) on Bottom Layer And Track (-42.246mm,50.882mm)(-41.865mm,50.882mm) on Bottom Layer Relative Track Width: 111.11%
-   Violation between SMD Neck-Down Constraint: Between Pad U22_PS7 5V-11(38.617mm,27.948mm) on Bottom Layer And Track (38.617mm,27.4mm)(38.617mm,27.948mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U22_PS7 5V-10(39.117mm,27.948mm) on Bottom Layer And Track (39.117mm,27.517mm)(39.117mm,27.948mm) on Bottom Layer Relative Track Width: 104.17%
-   Violation between SMD Neck-Down Constraint: Between Pad U24-1(1mm,6.02mm) on Bottom Layer And Track (1mm,6.02mm)(1.82mm,6.02mm) on Bottom Layer Relative Track Width: 118.11%
-   Violation between SMD Neck-Down Constraint: Between Pad U22_PS7 5V-1(37.117mm,30.748mm) on Bottom Layer And Track (35.596mm,30.748mm)(37.117mm,30.748mm) on Bottom Layer Relative Track Width: 125.00%
-   Violation between SMD Neck-Down Constraint: Between Pad U22_PS7 5V-3(38.117mm,30.748mm) on Bottom Layer And Track (38.117mm,30.748mm)(38.117mm,31.783mm) on Bottom Layer Relative Track Width: 104.17%
-Rule Violations :46
+Processing Rule : Width Constraint (Min=0.127mm) (Max=1.4mm) (Preferred=0.127mm) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=125%) (All)
+Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
@@ -183,25 +121,27 @@ Processing Rule : Net Antennae (Tolerance=0mm) (All)
    Violation between Net Antennae: Track (-77.9mm,69.617mm)(-76.88mm,69.617mm) on Component Side 
 Rule Violations :52
 
-Processing Rule : Matched Lengths(Tolerance=3mm) (InDifferentialPairClass('All Differential Pairs'))
+Processing Rule : Matched Lengths(Tolerance=3mm) (InDifferentialPairClass('HDMI_CONN'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=3mm) (InDifferentialPairClass('All Differential Pairs'))
+Processing Rule : Matched Lengths(Tolerance=3mm) (InDifferentialPairClass('HDMI_RPI'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=3mm) (InDifferentialPairClass('HDMI_RPI'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=3mm) (InDifferentialPairClass('HDMI_CONN'))
 Rule Violations :0
 
 Processing Rule : Room Designator (Bounding Region = (712.683mm, 504.297mm, 735.783mm, 554.997mm) (InComponentClass('Designator'))
 Rule Violations :0
 
 Processing Rule : Room CM4 (Bounding Region = (751.783mm, 530.197mm, 756.183mm, 533.997mm) (InComponentClass('CM4'))
-   Violation between Room Definition: Between SMT Small Component C56-100nF (92.8mm,83.6mm) on Component Side And Room CM4 (Bounding Region = (751.783mm, 530.197mm, 756.183mm, 533.997mm) (InComponentClass('CM4')) 
-   Violation between Room Definition: Between SMT Small Component C55-100nF (92.1mm,81.775mm) on Bottom Layer And Room CM4 (Bounding Region = (751.783mm, 530.197mm, 756.183mm, 533.997mm) (InComponentClass('CM4')) 
-   Violation between Room Definition: Between SOIC Component U28-TPD12S016PWR (6.8mm,73.4mm) on Bottom Layer And Room CM4 (Bounding Region = (751.783mm, 530.197mm, 756.183mm, 533.997mm) (InComponentClass('CM4')) 
-   Violation between Room Definition: Between Component CM1-Raspberry Pi Compute Module 4 (39.6mm,72.2mm) on Bottom Layer And Room CM4 (Bounding Region = (751.783mm, 530.197mm, 756.183mm, 533.997mm) (InComponentClass('CM4')) 
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=200mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 148
-Time Elapsed        : 00:00:44
+Violations Detected : 82
+Time Elapsed        : 00:00:29
