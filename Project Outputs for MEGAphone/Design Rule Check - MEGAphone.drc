@@ -1,40 +1,14 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Ivan\Documents\GitHub\megaphone-pcb-2020\MEGAphone.PcbDoc
-Date     : 5/11/2022
-Time     : 14:22:35
+Date     : 6/6/2022
+Time     : 14:50:15
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
    Violation between Short-Circuit Constraint: Between Pad D10-K(-73.66mm,80.9mm) on Bottom Layer And Pad S1-0(-75.534mm,83.644mm) on Multi-Layer Location : [X = 644.867mm][Y = 538.268mm]
-   Violation between Short-Circuit Constraint: Between Pad M3-4(-74.786mm,92.883mm) on Bottom Layer And Pad Free-3(-71.391mm,93.118mm) on Multi-Layer Location : [X = 647.784mm][Y = 548.315mm]
-   Violation between Short-Circuit Constraint: Between Via (-77.174mm,90.496mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 643.109mm][Y = 545.693mm]
-   Violation between Short-Circuit Constraint: Between Via (-77.174mm,92.883mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 643.109mm][Y = 548.08mm]
-   Violation between Short-Circuit Constraint: Between Via (-77.174mm,94.077mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 643.109mm][Y = 549.274mm]
-   Violation between Short-Circuit Constraint: Between Via (-74.786mm,90.496mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 645.497mm][Y = 545.693mm]
-   Violation between Short-Circuit Constraint: Between Via (-74.786mm,92.883mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 645.497mm][Y = 548.08mm]
-   Violation between Short-Circuit Constraint: Between Via (-74.786mm,94.077mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 645.497mm][Y = 549.274mm]
-   Violation between Short-Circuit Constraint: Between Via (-73.592mm,90.496mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 646.691mm][Y = 545.693mm]
-   Violation between Short-Circuit Constraint: Between Via (-72.398mm,90.496mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 647.885mm][Y = 545.693mm]
-   Violation between Short-Circuit Constraint: Between Via (-73.592mm,92.883mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 646.691mm][Y = 548.08mm]
-   Violation between Short-Circuit Constraint: Between Via (-72.398mm,92.883mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 647.885mm][Y = 548.08mm]
-   Violation between Short-Circuit Constraint: Between Via (-73.592mm,94.077mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 646.691mm][Y = 549.274mm]
-   Violation between Short-Circuit Constraint: Between Via (-72.398mm,94.077mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 647.885mm][Y = 549.274mm]
-   Violation between Short-Circuit Constraint: Between Via (-77.174mm,95.271mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 643.109mm][Y = 550.468mm]
-   Violation between Short-Circuit Constraint: Between Via (-77.174mm,91.69mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 643.109mm][Y = 546.887mm]
-   Violation between Short-Circuit Constraint: Between Via (-74.786mm,95.271mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 645.497mm][Y = 550.468mm]
-   Violation between Short-Circuit Constraint: Between Via (-74.786mm,91.69mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 645.497mm][Y = 546.887mm]
-   Violation between Short-Circuit Constraint: Between Via (-73.592mm,95.271mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 646.691mm][Y = 550.468mm]
-   Violation between Short-Circuit Constraint: Between Via (-72.398mm,95.271mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 647.885mm][Y = 550.468mm]
-   Violation between Short-Circuit Constraint: Between Via (-73.592mm,91.69mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 646.691mm][Y = 546.887mm]
-   Violation between Short-Circuit Constraint: Between Via (-72.398mm,91.69mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 647.885mm][Y = 546.887mm]
-   Violation between Short-Circuit Constraint: Between Via (-75.98mm,90.496mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 644.303mm][Y = 545.693mm]
-   Violation between Short-Circuit Constraint: Between Via (-75.98mm,92.883mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 644.303mm][Y = 548.08mm]
-   Violation between Short-Circuit Constraint: Between Via (-75.98mm,94.077mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 644.303mm][Y = 549.274mm]
-   Violation between Short-Circuit Constraint: Between Via (-75.98mm,95.271mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 644.303mm][Y = 550.468mm]
-   Violation between Short-Circuit Constraint: Between Via (-75.98mm,91.69mm) from Component Side to Bottom Layer And Pad M3-4(-74.786mm,92.883mm) on Bottom Layer Location : [X = 644.303mm][Y = 546.887mm]
-Rule Violations :27
+Rule Violations :1
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
@@ -42,10 +16,10 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.127mm) (Max=1.4mm) (Preferred=0.127mm) (All)
+Processing Rule : Width Constraint (Min=0.127mm) (Max=1.4mm) (Preferred=0.127mm) (InNet('GND'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.127mm) (Max=1.4mm) (Preferred=0.127mm) (InNet('GND'))
+Processing Rule : Width Constraint (Min=0.127mm) (Max=1.4mm) (Preferred=0.127mm) (All)
 Rule Violations :0
 
 Processing Rule : SMD Neck-Down Constraint (Percent=125%) (All)
@@ -58,71 +32,88 @@ Processing Rule : Hole Size Constraint (Min=0.25mm) (Max=100mm) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.127mm) (All),(All)
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.127mm) Between Via (-72.398mm,92.883mm) from Component Side to Bottom Layer And Pad Free-3(-71.391mm,93.118mm) on Multi-Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.127mm) Between Via (-72.398mm,94.077mm) from Component Side to Bottom Layer And Pad Free-3(-71.391mm,93.118mm) on Multi-Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.127mm) Between Via (-72.398mm,91.69mm) from Component Side to Bottom Layer And Pad Free-3(-71.391mm,93.118mm) on Multi-Layer Pad/Via Touching Holes
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (38.724mm,8.411mm)(39.1mm,9.215mm) on Component Side 
-   Violation between Net Antennae: Track (56.687mm,6.575mm)(57.095mm,7.45mm) on Component Side 
-   Violation between Net Antennae: Track (-78.679mm,71.141mm)(-75.737mm,71.141mm) on Component Side 
-   Violation between Net Antennae: Track (-87.929mm,79.396mm)(-87.929mm,82.825mm) on Component Side 
-   Violation between Net Antennae: Track (-84.881mm,78.253mm)(-84.881mm,83.587mm) on Component Side 
-   Violation between Net Antennae: Track (-86.405mm,78.253mm)(-86.405mm,83.587mm) on Component Side 
-   Violation between Net Antennae: Track (-83.357mm,79.396mm)(-83.357mm,82.825mm) on Component Side 
-   Violation between Net Antennae: Track (85.815mm,75.3mm)(86.889mm,75.394mm) on Component Side 
-   Violation between Net Antennae: Track (85.815mm,75.3mm)(88.442mm,73.096mm) on Component Side 
-   Violation between Net Antennae: Track (84.252mm,74.623mm)(88.338mm,71.194mm) on Component Side 
-   Violation between Net Antennae: Track (82.876mm,71.798mm)(82.97mm,70.724mm) on Component Side 
-   Violation between Net Antennae: Track (83.272mm,73.455mm)(87.358mm,70.027mm) on Component Side 
-   Violation between Net Antennae: Track (82.876mm,71.798mm)(85.503mm,69.594mm) on Component Side 
-   Violation between Net Antennae: Track (82.332mm,61.927mm)(83.405mm,62.021mm) on Component Side 
-   Violation between Net Antennae: Track (82.332mm,61.927mm)(84.959mm,59.723mm) on Component Side 
-   Violation between Net Antennae: Track (80.769mm,61.249mm)(84.855mm,57.821mm) on Component Side 
-   Violation between Net Antennae: Track (79.789mm,60.082mm)(83.875mm,56.653mm) on Component Side 
-   Violation between Net Antennae: Track (79.393mm,58.424mm)(82.02mm,56.22mm) on Component Side 
-   Violation between Net Antennae: Track (79.393mm,23.728mm)(79.487mm,22.654mm) on Component Side 
-   Violation between Net Antennae: Track (79.393mm,23.728mm)(82.02mm,21.524mm) on Component Side 
-   Violation between Net Antennae: Track (79.789mm,25.385mm)(83.875mm,21.957mm) on Component Side 
-   Violation between Net Antennae: Track (80.769mm,26.553mm)(84.855mm,23.124mm) on Component Side 
-   Violation between Net Antennae: Track (82.332mm,27.23mm)(84.959mm,25.026mm) on Component Side 
-   Violation between Net Antennae: Track (82.332mm,27.23mm)(83.405mm,27.324mm) on Component Side 
-   Violation between Net Antennae: Track (82.876mm,37.101mm)(85.503mm,34.897mm) on Component Side 
-   Violation between Net Antennae: Track (82.876mm,37.101mm)(82.97mm,36.028mm) on Component Side 
-   Violation between Net Antennae: Track (83.272mm,38.759mm)(87.358mm,35.33mm) on Component Side 
-   Violation between Net Antennae: Track (84.252mm,39.926mm)(88.338mm,36.497mm) on Component Side 
-   Violation between Net Antennae: Track (85.815mm,40.604mm)(88.442mm,38.4mm) on Component Side 
-   Violation between Net Antennae: Track (-88.691mm,66.188mm)(-87.929mm,66.95mm) on Component Side 
-   Violation between Net Antennae: Track (-87.929mm,63.521mm)(-87.929mm,66.95mm) on Component Side 
-   Violation between Net Antennae: Track (-86.405mm,62.378mm)(-86.405mm,67.712mm) on Component Side 
-   Violation between Net Antennae: Track (-84.881mm,62.378mm)(-84.881mm,67.712mm) on Component Side 
-   Violation between Net Antennae: Track (-83.357mm,63.521mm)(-83.357mm,66.95mm) on Component Side 
-   Violation between Net Antennae: Track (-80.69mm,72.665mm)(-75.356mm,72.665mm) on Component Side 
-   Violation between Net Antennae: Track (-80.69mm,74.189mm)(-75.737mm,74.189mm) on Component Side 
-   Violation between Net Antennae: Track (-79.166mm,75.713mm)(-76.88mm,75.713mm) on Component Side 
-   Violation between Net Antennae: Track (-95.168mm,69.617mm)(-92.882mm,69.617mm) on Component Side 
-   Violation between Net Antennae: Track (-96.692mm,71.141mm)(-91.739mm,71.141mm) on Component Side 
-   Violation between Net Antennae: Track (-96.692mm,72.665mm)(-91.358mm,72.665mm) on Component Side 
-   Violation between Net Antennae: Track (-96.692mm,74.189mm)(-91.739mm,74.189mm) on Component Side 
-   Violation between Net Antennae: Track (-95.168mm,75.713mm)(-92.882mm,75.713mm) on Component Side 
-   Violation between Net Antennae: Track (-88.691mm,82.063mm)(-87.929mm,82.825mm) on Component Side 
-   Violation between Net Antennae: Track (53.442mm,6.827mm)(55.696mm,11.662mm) on Component Side 
-   Violation between Net Antennae: Track (52.98mm,11.247mm)(53.993mm,11.615mm) on Component Side 
-   Violation between Net Antennae: Track (52.544mm,8.507mm)(53.993mm,11.615mm) on Component Side 
-   Violation between Net Antennae: Track (54.823mm,6.183mm)(57.077mm,11.018mm) on Component Side 
-   Violation between Net Antennae: Track (39.623mm,6.731mm)(41.877mm,11.565mm) on Component Side 
-   Violation between Net Antennae: Track (41.004mm,6.087mm)(43.258mm,10.921mm) on Component Side 
-   Violation between Net Antennae: Track (42.868mm,6.478mm)(44.317mm,9.586mm) on Component Side 
-   Violation between Net Antennae: Track (44.317mm,9.586mm)(44.686mm,8.573mm) on Component Side 
+   Violation between Net Antennae: Via (-77.174mm,95.271mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-75.98mm,95.271mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-74.786mm,95.271mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-73.592mm,95.271mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-72.398mm,95.271mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-77.174mm,94.077mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-75.98mm,94.077mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-74.786mm,94.077mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-73.592mm,94.077mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-72.398mm,94.077mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-77.174mm,92.883mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-75.98mm,92.883mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-74.786mm,92.883mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-73.592mm,92.883mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-72.398mm,92.883mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-77.174mm,91.69mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-75.98mm,91.69mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-74.786mm,91.69mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-73.592mm,91.69mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-72.398mm,91.69mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-74.786mm,90.496mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-73.592mm,90.496mm) from Component Side to Bottom Layer 
+   Violation between Net Antennae: Via (-72.398mm,90.496mm) from Component Side to Bottom Layer 
    Violation between Net Antennae: Track (-77.9mm,69.617mm)(-76.88mm,69.617mm) on Component Side 
-Rule Violations :52
-
-Processing Rule : Matched Lengths(Tolerance=3mm) (InDifferentialPairClass('HDMI_CONN'))
-Rule Violations :0
+   Violation between Net Antennae: Track (44.317mm,9.586mm)(44.686mm,8.573mm) on Component Side 
+   Violation between Net Antennae: Track (42.868mm,6.478mm)(44.317mm,9.586mm) on Component Side 
+   Violation between Net Antennae: Track (41.004mm,6.087mm)(43.258mm,10.921mm) on Component Side 
+   Violation between Net Antennae: Track (39.623mm,6.731mm)(41.877mm,11.565mm) on Component Side 
+   Violation between Net Antennae: Track (54.823mm,6.183mm)(57.077mm,11.018mm) on Component Side 
+   Violation between Net Antennae: Track (52.544mm,8.507mm)(53.993mm,11.615mm) on Component Side 
+   Violation between Net Antennae: Track (52.98mm,11.247mm)(53.993mm,11.615mm) on Component Side 
+   Violation between Net Antennae: Track (53.442mm,6.827mm)(55.696mm,11.662mm) on Component Side 
+   Violation between Net Antennae: Track (-88.691mm,82.063mm)(-87.929mm,82.825mm) on Component Side 
+   Violation between Net Antennae: Track (-95.168mm,75.713mm)(-92.882mm,75.713mm) on Component Side 
+   Violation between Net Antennae: Track (-96.692mm,74.189mm)(-91.739mm,74.189mm) on Component Side 
+   Violation between Net Antennae: Track (-96.692mm,72.665mm)(-91.358mm,72.665mm) on Component Side 
+   Violation between Net Antennae: Track (-96.692mm,71.141mm)(-91.739mm,71.141mm) on Component Side 
+   Violation between Net Antennae: Track (-95.168mm,69.617mm)(-92.882mm,69.617mm) on Component Side 
+   Violation between Net Antennae: Track (-79.166mm,75.713mm)(-76.88mm,75.713mm) on Component Side 
+   Violation between Net Antennae: Track (-80.69mm,74.189mm)(-75.737mm,74.189mm) on Component Side 
+   Violation between Net Antennae: Track (-80.69mm,72.665mm)(-75.356mm,72.665mm) on Component Side 
+   Violation between Net Antennae: Track (-83.357mm,63.521mm)(-83.357mm,66.95mm) on Component Side 
+   Violation between Net Antennae: Track (-84.881mm,62.378mm)(-84.881mm,67.712mm) on Component Side 
+   Violation between Net Antennae: Track (-86.405mm,62.378mm)(-86.405mm,67.712mm) on Component Side 
+   Violation between Net Antennae: Track (-87.929mm,63.521mm)(-87.929mm,66.95mm) on Component Side 
+   Violation between Net Antennae: Track (-88.691mm,66.188mm)(-87.929mm,66.95mm) on Component Side 
+   Violation between Net Antennae: Track (85.815mm,40.604mm)(88.442mm,38.4mm) on Component Side 
+   Violation between Net Antennae: Track (84.252mm,39.926mm)(88.338mm,36.497mm) on Component Side 
+   Violation between Net Antennae: Track (83.272mm,38.759mm)(87.358mm,35.33mm) on Component Side 
+   Violation between Net Antennae: Track (82.876mm,37.101mm)(82.97mm,36.028mm) on Component Side 
+   Violation between Net Antennae: Track (82.876mm,37.101mm)(85.503mm,34.897mm) on Component Side 
+   Violation between Net Antennae: Track (82.332mm,27.23mm)(83.405mm,27.324mm) on Component Side 
+   Violation between Net Antennae: Track (82.332mm,27.23mm)(84.959mm,25.026mm) on Component Side 
+   Violation between Net Antennae: Track (80.769mm,26.553mm)(84.855mm,23.124mm) on Component Side 
+   Violation between Net Antennae: Track (79.789mm,25.385mm)(83.875mm,21.957mm) on Component Side 
+   Violation between Net Antennae: Track (79.393mm,23.728mm)(82.02mm,21.524mm) on Component Side 
+   Violation between Net Antennae: Track (79.393mm,23.728mm)(79.487mm,22.654mm) on Component Side 
+   Violation between Net Antennae: Track (79.393mm,58.424mm)(82.02mm,56.22mm) on Component Side 
+   Violation between Net Antennae: Track (79.789mm,60.082mm)(83.875mm,56.653mm) on Component Side 
+   Violation between Net Antennae: Track (80.769mm,61.249mm)(84.855mm,57.821mm) on Component Side 
+   Violation between Net Antennae: Track (82.332mm,61.927mm)(84.959mm,59.723mm) on Component Side 
+   Violation between Net Antennae: Track (82.332mm,61.927mm)(83.405mm,62.021mm) on Component Side 
+   Violation between Net Antennae: Track (82.876mm,71.798mm)(85.503mm,69.594mm) on Component Side 
+   Violation between Net Antennae: Track (83.272mm,73.455mm)(87.358mm,70.027mm) on Component Side 
+   Violation between Net Antennae: Track (82.876mm,71.798mm)(82.97mm,70.724mm) on Component Side 
+   Violation between Net Antennae: Track (84.252mm,74.623mm)(88.338mm,71.194mm) on Component Side 
+   Violation between Net Antennae: Track (85.815mm,75.3mm)(88.442mm,73.096mm) on Component Side 
+   Violation between Net Antennae: Track (85.815mm,75.3mm)(86.889mm,75.394mm) on Component Side 
+   Violation between Net Antennae: Track (-83.357mm,79.396mm)(-83.357mm,82.825mm) on Component Side 
+   Violation between Net Antennae: Track (-86.405mm,78.253mm)(-86.405mm,83.587mm) on Component Side 
+   Violation between Net Antennae: Track (-84.881mm,78.253mm)(-84.881mm,83.587mm) on Component Side 
+   Violation between Net Antennae: Track (-87.929mm,79.396mm)(-87.929mm,82.825mm) on Component Side 
+   Violation between Net Antennae: Track (-78.679mm,71.141mm)(-75.737mm,71.141mm) on Component Side 
+   Violation between Net Antennae: Track (56.687mm,6.575mm)(57.095mm,7.45mm) on Component Side 
+   Violation between Net Antennae: Track (38.724mm,8.411mm)(39.1mm,9.215mm) on Component Side 
+Rule Violations :75
 
 Processing Rule : Matched Lengths(Tolerance=3mm) (InDifferentialPairClass('HDMI_RPI'))
 Rule Violations :0
@@ -133,15 +124,19 @@ Rule Violations :0
 Processing Rule : Matched Lengths(Tolerance=3mm) (InDifferentialPairClass('HDMI_CONN'))
 Rule Violations :0
 
-Processing Rule : Room Designator (Bounding Region = (712.683mm, 504.297mm, 735.783mm, 554.997mm) (InComponentClass('Designator'))
+Processing Rule : Matched Lengths(Tolerance=3mm) (InDifferentialPairClass('HDMI_CONN'))
 Rule Violations :0
 
 Processing Rule : Room CM4 (Bounding Region = (751.783mm, 530.197mm, 756.183mm, 533.997mm) (InComponentClass('CM4'))
 Rule Violations :0
 
+Processing Rule : Room Designator (Bounding Region = (712.683mm, 504.297mm, 735.783mm, 554.997mm) (InComponentClass('Designator'))
+   Violation between Room Definition: Between Component U29-FEATHER_M0_BASIC_PROTO (3.91mm,74.56mm) on Bottom Layer And Room Designator (Bounding Region = (712.683mm, 504.297mm, 735.783mm, 554.997mm) (InComponentClass('Designator')) 
+Rule Violations :1
+
 Processing Rule : Height Constraint (Min=0mm) (Max=200mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 82
-Time Elapsed        : 00:00:29
+Violations Detected : 77
+Time Elapsed        : 00:00:31
