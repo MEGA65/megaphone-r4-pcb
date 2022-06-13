@@ -1,0 +1,62 @@
+Change Component Comment : Designator=D2 Old Comment=' New Comment=#NAME?
+Change Component Comment : Designator=D3 Old Comment=' New Comment=#NAME?
+Change Component Comment : Designator=D6_PS4 Old Comment=' New Comment=#NAME?
+Change Component Comment : Designator=D6_PS7 5V Old Comment=' New Comment=#NAME?
+Change Component Comment : Designator=D7_PS1 Old Comment=' New Comment=#NAME?
+Change Component Comment : Designator=D7_PS2 Old Comment=' New Comment=#NAME?
+Change Component Comment : Designator=D7_PS3 Old Comment=' New Comment=#NAME?
+Change Component Comment : Designator=D7_PS5 Old Comment=' New Comment=#NAME?
+Change Component Comment : Designator=D7_PS6 Old Comment=' New Comment=#NAME?
+Change Component Description : Designator=C18 Old Description=????? New Description=?????
+Change Component Library : Designator=C18 Old Library=? library.IntLib New Library=? library.IntLib
+Change Component Library : Designator=C57 Old Library=? library.IntLib New Library=? library.IntLib
+Change Component Library : Designator=C58 Old Library=? library.IntLib New Library=? library.IntLib
+Change Component Library : Designator=D9 Old Library=? library.IntLib New Library=? library.IntLib
+Change Component Library : Designator=D10 Old Library=? library.IntLib New Library=? library.IntLib
+Change Component Library : Designator=D11 Old Library=? library.IntLib New Library=? library.IntLib
+Change Component Library : Designator=D12 Old Library=? library.IntLib New Library=? library.IntLib
+Change Component Library : Designator=DS1 Old Library=? library.IntLib New Library=? library.IntLib
+Change Component Library : Designator=L4 Old Library=? library.IntLib New Library=? library.IntLib
+Change Component Library : Designator=M3 Old Library=? library.IntLib New Library=? library.IntLib
+Change Component Library : Designator=R60 Old Library=? library.IntLib New Library=? library.IntLib
+Change Component Library : Designator=R63 Old Library=? library.IntLib New Library=? library.IntLib
+Change Component Library : Designator=R77 Old Library=? library.IntLib New Library=? library.IntLib
+Change component parameters: Designator = "U22_PS4"; Footprint = "DSJ14-4000X1580TP_V"; UniqueID = "\IJTCOGYO\MHZZPENN\MHLFUBPO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey Number"; Value = "296-27230-1-ND?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Number"; Value = "TPS63020"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U22_PS7 5V"; Footprint = "DSJ14-4000X1580TP_V"; UniqueID = "\IJTCOGYO\QTWUYOTX\MHLFUBPO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey Number"; Value = "296-27230-1-ND?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Number"; Value = "TPS63020"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U23_PS1"; Footprint = "DSJ14-4000X1580TP_V"; UniqueID = "\IJTCOGYO\VAHHWVLH\OBKWPYLS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey Number"; Value = "296-37448-1-ND?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Number"; Value = "TPS63021"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U23_PS2"; Footprint = "DSJ14-4000X1580TP_V"; UniqueID = "\IJTCOGYO\MAUQOGKC\OBKWPYLS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey Number"; Value = "296-37448-1-ND?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Number"; Value = "TPS63021"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U23_PS3"; Footprint = "DSJ14-4000X1580TP_V"; UniqueID = "\IJTCOGYO\QYXPUORI\OBKWPYLS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey Number"; Value = "296-37448-1-ND?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Number"; Value = "TPS63021"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U23_PS5"; Footprint = "DSJ14-4000X1580TP_V"; UniqueID = "\IJTCOGYO\IYSDBQOT\OBKWPYLS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey Number"; Value = "296-37448-1-ND?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Number"; Value = "TPS63021"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U23_PS6"; Footprint = "DSJ14-4000X1580TP_V"; UniqueID = "\IJTCOGYO\PMLCGPDW\OBKWPYLS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey Number"; Value = "296-37448-1-ND?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Number"; Value = "TPS63021"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Battery Member=Component C18 16V 100uF
+Added Member To Class: ClassName=U_Audio Member=Component J2 SJ-43515TS-SMT
+Added Member To Class: ClassName=U_LoRa Radio Member=Component RF1 RFD900
+Added Member To Class: ClassName=Designator Member=Component U29 FEATHER_M0_BASIC_PROTO
