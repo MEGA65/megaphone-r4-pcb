@@ -18,14 +18,27 @@ Other significant changes are the inclusion of a place for a Pi Compute Module 4
 
 The PCB design in this repo has been built and initial hardware bring-up has been performed, confirming that the power system works.  A bunch of errata have been identified in the process, which are tracked in the issues of this repository.  The board currently looks like this:
 
+![Front of MEGAphone R4 PCB, with LCD panel fitted](./images/MEGAphoneR4-With-Panel.jpg)
+
+![Rear of MEGAphone R4 PCB, with TE0725 and OrangeCrab FPGA modules fitted](./images/MEGAphoneR4-rear-with-FPGAs.jpg)
+
+Note that the VGA connector of the R2 has been replaced with the same connector as HDMI to allow digital video. It and the joystick port
+(which also doubles as a general accessory connector) have both been pulled back within the rectangular outline. This makes the complete device noticeably smaller than the R2 which had protrusions on opposite corners to support the VGA and joystick connectors.
+
+There are also 3 16-pin headers, two for UHF packet radios or other communications accessories, linked by UARTs to the OrangeCrab FPGA, and one that also has audio signals routed to it, so that it can host WiFi, Bluetooth and audio amplifier circuits. This audio module port was
+added to save space on the main PCB, to make room for the relocated connectors, and the Raspberry Pi CM4 that can be used to run Android applications or other "heavy" computations in a sand-box that is isolated from the simple 8-bit environment that runs on the Xilinx FPGA.
+
+The OrangeCrab FPGA module is an important addition, as it supports the power management system, allowing various power rails to be turned on and off, and also buffers serial communications from the two cellular modem/alternative communications bays, as well as the two 16-pin headers provided for packet radios or other communications modules.  This allows the main Xilinx FPGA to be powered off most of the time, thus enabling longer battery life.
+
+The R4 PCB also finally has battery charging circuitry that can charge the 1S LiFePO4 cell, using any source from ~5V to ~20V, including automotive 12V accessory connector, USB power or a solar panel.  A solar panel will be fitted to the prototypes when fully assembled, thus allowing full energy autonomy in most cases.
 
 
 # Companion Blog Posts
 
-https://c65gs.blogspot.com/2020/06/ultrasonic-communications-for-mega65.html
-https://c65gs.blogspot.com/2020/10/megaphone-r2-hardware-bringup.html
-https://c65gs.blogspot.com/2020/11/megaphone-pcb-changes.html
-https://c65gs.blogspot.com/2021/06/megaphone-pcb-re-spin.html
-https://c65gs.blogspot.com/2022/09/megaphone-r4-pcb-bring-up-part-1.html
-https://c65gs.blogspot.com/2022/09/megaphone-r4-pcb-bring-up-part-2.html
-https://c65gs.blogspot.com/2022/09/megaphone-r4-pcb-bring-up-part-3.html
+* https://c65gs.blogspot.com/2020/06/ultrasonic-communications-for-mega65.html
+* https://c65gs.blogspot.com/2020/10/megaphone-r2-hardware-bringup.html
+* https://c65gs.blogspot.com/2020/11/megaphone-pcb-changes.html
+* https://c65gs.blogspot.com/2021/06/megaphone-pcb-re-spin.html
+* https://c65gs.blogspot.com/2022/09/megaphone-r4-pcb-bring-up-part-1.html
+* https://c65gs.blogspot.com/2022/09/megaphone-r4-pcb-bring-up-part-2.html
+* https://c65gs.blogspot.com/2022/09/megaphone-r4-pcb-bring-up-part-3.html
